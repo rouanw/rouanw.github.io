@@ -108,7 +108,7 @@ a:visited { color: #a0a; }
 }
 
 .footer .contact a {
-  color: #8085C1;
+  color: rgb(100,100,100);
 }
 
 .footer .rss {
