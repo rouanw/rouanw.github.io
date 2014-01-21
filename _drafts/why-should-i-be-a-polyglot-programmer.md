@@ -4,8 +4,6 @@ title:  "Why should I be a polyglot programmer?"
 categories: placeholder
 ---
 
-## What is a polyglot programmer?
-
 The term [polyglot](http://en.wiktionary.org/wiki/polyglot) refers to someone who is able to speak multiple languages. When I talk about a polyglot programmer, I'm talking about someone who is able to code in multiple languages. So, if Sue is a programmer who is comfortable coding in (say) Javascript, Ruby and Java, I'd feel okay about calling her a polyglot programmer.
 
 ## The right tool for the job
@@ -16,3 +14,17 @@ Part of the culture at [ThoughtWorks](www.thoughtworks.com) is to encourage deve
 
 Most projects use multiple languages. No matter what the tech stack, modern applications often consist of a mix of languages. If you're writing a web application, it's very likely that you'll be writing some HTML, CSS and Javascript, whether you're building it using Rails or ASP.NET MVC.
 
+## Why should I hire a polyglot programmer?
+
+People are often sceptical of people with varied coding experience. They're used to seeing
+
+	5 years Java experience
+	
+on the CV in front of them, so when they see the CV that says
+
+	3 years Ruby experience
+	1 year Python experience
+	1 year C# experience
+	3 years Javascript experience
+
+they're concerned that the person doesn't have the skills required for the job. 
