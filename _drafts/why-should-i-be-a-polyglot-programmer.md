@@ -37,7 +37,8 @@ The two aspects that most often go wrong on software projects are maintainabilit
 A developer who understands the importance of testing and knows how to write good tests will be an invaluable asset to your team. They should know how to write functional tests (so that they can protect your features), how to write unit and integration tests (to ensure that the internal structure of your system is sound) and how to practise Test Driven Development (so that your system is fully tested and well designed).
 
 ####Design
-The D of TDD, OO, emergent design, refactoring
+
+Many of my colleagues prefer to call TDD Test Driven *Design*. I like this because it highlights that writing your tests before your code is more a design activity than a development activity. When you write your tests first, you grow the components of your system from the perspective of a consumer, which means that a focus on its design is baked in from the start. A good polyglot programmer understands this. They don't neglect the refactoring step that forms an often ignored part of TDD, in order to make sure your system takes on a sensible shape. It is this constant refactoring that we refer to as emergent design and is all about making sure that the design of the program we are writing evolves in a way that is easily maintainable and extensible. The polyglot programmer you want to hire will understand emergent design, understand object oriented programming and they know how to refactor code to be nicer to work with.
 
 ####Deployment
 Configuration, automation
