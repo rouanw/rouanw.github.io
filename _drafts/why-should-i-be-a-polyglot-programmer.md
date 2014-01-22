@@ -14,7 +14,7 @@ on the CV in front of them, so when they see the CV that says
 	1 year Python experience
 	2 years Java experience
 
-they're concerned that the person doesn't have the skills required for the job. I'm going to argue that this reaction, although natural, is misguided. I contend that the person with the second CV might well be a better developer on a C# project, despite having little or no C# experience.
+they're concerned that the person doesn't have the skills required for the job. I'm going to argue that this reaction, although natural, is misguided. I say that the person with the second CV might well be a better developer on a C# project, despite having little or no C# experience. As you read on you'll see that I'm talking about any developer who happens to know a few languages, but a particular kind of polyglot programmer (with a very [particular set of skills](http://www.youtube.com/watch?v=B0hZ1KKpV54)).
 
 Let me set the scene. Your organisation's technology stack is .NET. Your development team is a group of seasoned .NET developers. Their experience ranges from about 5-15 years. You hire the perosn with the second CV. She has a number of years of experience under her belt, but no .NET experience at all.
 
@@ -51,6 +51,7 @@ Part of the culture at [ThoughtWorks](http://www.thoughtworks.com) is to encoura
 
 Most projects use multiple languages. No matter what the tech stack, modern applications often consist of a mix of languages. If you're writing a web application, it's very likely that you'll be writing some HTML, CSS and Javascript, whether you're building it using Rails or ASP.NET MVC. You might use a Python library like Fabric to deploy your Java application.
 
-##Notes
-
-The term [polyglot](http://en.wiktionary.org/wiki/polyglot) refers to someone who is able to speak multiple languages. When I talk about a polyglot programmer, I'm talking about someone who is able to code in multiple languages. So, if Sue is a programmer who is comfortable coding in (say) Javascript, Ruby and Java, I'd feel okay about calling her a polyglot programmer.
+<div class="info-box">
+	<h1>What is a polyglot programmer?</h1>
+	The term <a href="http://en.wiktionary.org/wiki/polyglot">polyglot</a> refers to someone who is able to speak multiple languages. When I talk about a polyglot programmer, I'm talking about someone who is comfortable coding in multiple languages.
+</div>
