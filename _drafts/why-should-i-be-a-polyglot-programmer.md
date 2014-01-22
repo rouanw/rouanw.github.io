@@ -20,32 +20,30 @@ Let me set the scene. Your organisation's technology stack is .NET. Your develop
 
 Despite the scepticism of the team, she is able to pick C# up really quickly. She is able to not only keep up with the team, but teach them many new things. Let's have a look at why.
 
-# If languages don't matter, what does?
+## If languages don't matter, what does?
 
 What I'm essentially saying is that it doesn't matter whether the programmer you're considering has deep knowledge of the language or framework your system uses. But if that's what I'm saying, how on earth are you meant to decide whether a coder is up to the task? How do you know they'll be able to pick up C# and add value to your project without slowing you down?
 
-##Core concepts
+###Core concepts
 
 Software engineering is about a lot more than the language or framework you're using. In my experience, the better developer to have on your team is often the one that understands fundamental software engineering practices, rather than the one with deep framework or language knowledge.
 
-###Automated testing skills
+####Automated testing skills
 maintainability, extensibility
 
-###Design experience
+####Design experience
 The D of TDD, OO, emergent design, refactoring
 
-###Deployment skills
+####Deployment skills
 Configuration, automation
 
-###
-
-##Varied experience
+###Varied experience
 
 Your new hire notices that the assertions the team is writing in their tesrs are a bit clumsy. They don't read very nicely and the error messages don't provide much detail when they fail. In her days of coding in Java, she used a library called Hamcrest that made assertions a) read more like English and b) give better errors. She asks herself "Surely there is something like that for .NET". She does a quick Google and finds a library called FluentAssertions. It does everything she wants from an assertion library. To her delight, it even has cleaner syntax than the Java library she has used before, because of C#'s extension methods.
 
 She observes that the team deploys their application manually. She has automated a number of deployments in her time and thinks to herself that, even though there are more sophisticated tools available, even just a bash script is a great improvement over manually deploying things. She's has a Unix background though, so she doesn't know which tool is applicable. Again, she's off to Google for something she can use to script deployments on Windows. She comes across PowerShell. She starts writing some code to help automate the deployment. She starts with just copying some files across to the environment she wants to deploy to. The syntax is a bit clumsier than Bash, but a lot of it is the same. She hacks away and does a web search when she gets stuck on the syntax or conventions. Soon she has a script up and running that copies the application DLLs and she gets cracking on getting the web server to serve the updated files. She asks herslef whether there's a way to test Powershell, because she's written quite a bit of it now. She finds a testing framework called Pester and writes some tests. The team is taken aback. They've never even tried automating their deployment and some Windows newbie has just come and written scripts to do it in a Mircrosoft language. And she's written tests! Who knew you could test scripts?
 
-## The right tool for the job
+### The right tool for the job
 
 Knowing multiple languages allows the polyglot programmer to pick the right technology for the problem at hand. 
 
@@ -53,6 +51,6 @@ Part of the culture at [ThoughtWorks](http://www.thoughtworks.com) is to encoura
 
 Most projects use multiple languages. No matter what the tech stack, modern applications often consist of a mix of languages. If you're writing a web application, it's very likely that you'll be writing some HTML, CSS and Javascript, whether you're building it using Rails or ASP.NET MVC. You might use a Python library like Fabric to deploy your Java application.
 
-#Notes
+##Notes
 
 The term [polyglot](http://en.wiktionary.org/wiki/polyglot) refers to someone who is able to speak multiple languages. When I talk about a polyglot programmer, I'm talking about someone who is able to code in multiple languages. So, if Sue is a programmer who is comfortable coding in (say) Javascript, Ruby and Java, I'd feel okay about calling her a polyglot programmer.
