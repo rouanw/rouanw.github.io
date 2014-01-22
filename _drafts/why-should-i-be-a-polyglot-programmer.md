@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why should I hire a polyglot programmer?"
-categories: languages engineering_practices
+tags: languages engineering_practices
 ---
 
 The term [polyglot](http://en.wiktionary.org/wiki/polyglot) refers to someone who is able to speak multiple languages. When I talk about a polyglot programmer, I'm talking about someone who is comfortable coding in multiple languages.
