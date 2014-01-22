@@ -6,33 +6,31 @@ categories: code
 
 People are often sceptical of software developers with varied coding experience. They're used to seeing
 
-	5 years Java experience
+	5 years C# experience
 	
 on the CV in front of them, so when they see the CV that says
 
-	3 years Ruby experience
+	2 years Ruby experience
 	1 year Python experience
-	1 year C# experience
+	2 year Java experience
 
-they're concerned that the person doesn't have the skills required for the job. I'm going to argue that this reaction, although natural, is misguided. I contend that it's very possible that the person with the second CV will be a better developer on a Java project, despite having little or no Java experience.
+they're concerned that the person doesn't have the skills required for the job. I'm going to argue that this reaction, although natural, is misguided. I contend that the person with the second CV might well be a better developer on a C# project, despite having little or no C# experience.
 
-# An example
+Let me set the scene. Your organisation's technology stack is .NET. Your development team is a group of seasoned .NET developers. Their experience ranges from about 5-15 years. You hire the perosn with the second CV. She has a number of years of experience under her belt, but no .NET experience at all.
 
-I was on a project not too long ago, where the technology stack was .NET. The team from the client we were working with were seasoned .NET developers. Their experienced ranged from about 5-15 years. Enter one of our consultants, with a number of years of experience under his belt, but with no .NET experience at all. If I remember correctly, his background was mainly Ruby and Java.
-
-Despite the scepticism of the team, he was able to pick C# up really quickly. And was able to not only keep up with the team, but teach them many new things. Let's have a look at why.
+Despite the scepticism of the team, she is able to pick C# up really quickly. She is able to not only keep up with the team, but teach them many new things. Let's have a look at why.
 
 # If languages don't matter, what does?
 
-What I'm essentially saying is that it doesn't matter whether the programmer you're considering has deep knowledge of the language or framework your system uses. But if that's what I'm saying, how on earth are you meant to decide whether a coder is up to the task? How do you know they'll be able to pick up Java and add value to my project without slowing us down?
+What I'm essentially saying is that it doesn't matter whether the programmer you're considering has deep knowledge of the language or framework your system uses. But if that's what I'm saying, how on earth are you meant to decide whether a coder is up to the task? How do you know they'll be able to pick up C# and add value to your project without slowing you down?
 
 ##Core concepts
 
 ##Varied experience
 
-Our consultant notices that the assertions the team is writing in their tesrs are a bit clumsy. They don't read very nicely and the error messages don't provide much detail when they fail. In his days of coding in Java, he used a library called Hamcrest that made assertions a) read more like English and b) give better errors. He asks himself "Surely there is something like that for .NET". He does a quick Google and finds a library called FluentAssertions. It does everything he wants from an assetion library. To his delight, it even has cleaner syntax than the Java library he has used before, because of C#'s extension methods.
+Your new hire notices that the assertions the team is writing in their tesrs are a bit clumsy. They don't read very nicely and the error messages don't provide much detail when they fail. In her days of coding in Java, she used a library called Hamcrest that made assertions a) read more like English and b) give better errors. She asks herself "Surely there is something like that for .NET". She does a quick Google and finds a library called FluentAssertions. It does everything she wants from an assertion library. To her delight, it even has cleaner syntax than the Java library she has used before, because of C#'s extension methods.
 
-Our consultant notices that the team deploys their application manually. He has automated a number of deployments in his time and thinks to himself that, even though there are more sophisticated tools available, even just a bash script is a great improvement over manually deploying things. He's a Unix guy though, so he doesn't know which tool is applicable. Again, he's off to Google for something he can use to script deployments on Windows. He comes across PowerShell. He starts writing some code to help automate the deployment. He starts with just copying some files across to the environment he wants to deploy to. The syntax is a bit clumsier than Bash, but a lot of it is the same. He hacks away and does a web search when he gets stuck on syntax or convention. Soon he has a script up and running that copies the application DLLs and he gets cracking on getting the web server to serve the updated files. He asks himself whether there's a way to test Powershell, because he's written quite a bit of it. He finds a testing framework and writes some tests. The team is taken aback. They've never even tried automating their deployment and some Unix guy has just come and written scripts to do it in a Mircrosoft language. And he's written tests! Who knew you could test scripts?
+She observes that the team deploys their application manually. She has automated a number of deployments in her time and thinks to herself that, even though there are more sophisticated tools available, even just a bash script is a great improvement over manually deploying things. She's has a Unix background though, so she doesn't know which tool is applicable. Again, she's off to Google for something she can use to script deployments on Windows. She comes across PowerShell. She starts writing some code to help automate the deployment. She starts with just copying some files across to the environment she wants to deploy to. The syntax is a bit clumsier than Bash, but a lot of it is the same. She hacks away and does a web search when she gets stuck on the syntax or conventions. Soon she has a script up and running that copies the application DLLs and she gets cracking on getting the web server to serve the updated files. She asks herslef whether there's a way to test Powershell, because she's written quite a bit of it now. She finds a testing framework called Pester and writes some tests. The team is taken aback. They've never even tried automating their deployment and some Windows newbie has just come and written scripts to do it in a Mircrosoft language. And she's written tests! Who knew you could test scripts?
 
 ## The right tool for the job
 
