@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why should I hire a polyglot programmer?"
-categories: code
+categories: languages engineering_practices
 ---
 
 The term [polyglot](http://en.wiktionary.org/wiki/polyglot) refers to someone who is able to speak multiple languages. When I talk about a polyglot programmer, I'm talking about someone who is comfortable coding in multiple languages.
@@ -36,7 +36,7 @@ The two aspects that most often go wrong on software projects are maintainabilit
 
 A developer who understands the importance of testing and knows how to write good tests will be an invaluable asset to your team. They should know how to write functional tests (so that they can protect your features), how to write unit and integration tests (to ensure that the internal structure of your application is sound) and how to practise Test Driven Development (so that your application is fully tested and well designed).
 
-Automated give us confidence that our software does what it's meant to. The developer you hire should understand this and ensure that testing is a first class consideration in your development process.
+Automated give us confidence that our software does what it's meant to. The developer you hire should understand this and ensure that testing is a first class consideration in your development process. Developers who are passionate about testing tend to be intolerant of those who are not. Given your support, expect your new hire to quickly get the rest of the team writing tests.
 
 ####Design
 
@@ -60,12 +60,15 @@ Your new hire notices that the assertions the team is writing in their tesrs are
 
 She observes that the team deploys their application manually. She has automated a number of deployments in her time and thinks to herself that, even though there are more sophisticated tools available, even just a bash script is a great improvement over manually deploying things. She's has a Unix background though, so she doesn't know which tool is applicable. Again, she's off to Google for something she can use to script deployments on Windows. She comes across PowerShell. She starts writing some code to help automate the deployment. She starts with just copying some files across to the environment she wants to deploy to. The syntax is a bit clumsier than Bash, but a lot of it is the same. She hacks away and does a web search when she gets stuck on the syntax or conventions. Soon she has a script up and running that copies the application DLLs and she gets cracking on getting the web server to serve the updated files. She asks herslef whether there's a way to test Powershell, because she's written quite a bit of it now. She finds a testing framework called Pester and writes some tests. The team is taken aback. They've never even tried automating their deployment and some Windows newbie has just come and written scripts to do it in a Mircrosoft language. And she's written tests! Who knew you could test scripts?
 
+The polyglot programmer brings with them an invaluable breadth of experience. They will open your team's eyes to the development practices and tools that are common in other languages.
+
 ### The right tool for the job
 
 Knowing multiple languages allows the polyglot programmer to pick the right technology for the problem at hand. 
 
-Part of the culture at [ThoughtWorks](http://www.thoughtworks.com) is to encourage developers to learn different languages. This is partially due to the fact that ThoughtWorkers tend to be quite geeky and like knowing lots of different languages, but is also due to the nature of the business. ThoughtWorks is a consulting company, which means that the languages we code in are most often influenced by the problems our clients are trying to solve. As consultants, we've seen the value of varied experience first hand in allowing people to use technology that really helps solve a problem. Software built on the wrong technology stack is never pretty and usually stunts the organisation's growth.
+Not all applications are the same. The problems they seek to solve, or the opportunities they seek to leverage, are vastly different. Why should you care? Because different jobs require different tools. Software built on the wrong technology stack is ugly and painful. Why are you using Java to solve a clearly functional problem? Maybe you should be using Clojure instead. Why are you building a plain Rails app when your users are complaining that they need a more fluid interface? Maybe you should be using a single page Javscript framework.
 
-No matter what the tech stack, modern applications often consist of a mix of languages. If you're writing a web application, it's very likely that you'll be writing some HTML, CSS and Javascript, whether you're building it using Rails or ASP.NET MVC. You might use a Python library like Fabric to deploy your Java application. You might have a Javascript front end (using something like Angular or Ember) that talks to a web server written in Ruby.
+No matter what the tech stack, modern applications often consist of a mix of languages. If you're writing a web application, it's very likely that you'll be writing some HTML, CSS and Javascript, whether you're building it using Rails or ASP.NET MVC. You might use a Python library like Fabric to deploy your Java application. You might have a fat Javascript front end that talks to a web server written in Ruby.
 
+The polyglot programmer you hire should be able to use to breadth of their experience to help you make smart decisions about which technology to use.
 
