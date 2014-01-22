@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why should I hire a polyglot programmer?"
+title:  Why should I hire a polyglot programmer?
 tags: languages engineering_practices
 ---
 
