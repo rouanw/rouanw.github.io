@@ -14,7 +14,7 @@ on the CV in front of them, so when they see the CV that says
 	1 year Python experience
 	2 years Java experience
 
-they're concerned that the person doesn't have the skills required for the job. I'm going to argue that this reaction, although natural, is misguided. I say that the person with the second CV might well be a better developer on a C# project, despite having little or no C# experience. As you read on you'll see that I'm talking about any developer who happens to know a few languages, but a particular kind of polyglot programmer (with a very [particular set of skills](http://www.youtube.com/watch?v=B0hZ1KKpV54)).
+they're concerned that the person doesn't have the skills required for the job. I'm going to argue that this reaction, although natural, is misguided. I say that the person with the second CV might well be a better developer on a C# project, despite having little or no C# experience. As you read on you'll see that I'm not talking about any developer who happens to know a few languages, but a particular kind of polyglot programmer (with a very [particular set of skills](http://www.youtube.com/watch?v=B0hZ1KKpV54)).
 
 Let me set the scene. Your organisation's technology stack is .NET. Your development team is a group of seasoned .NET developers. Their experience ranges from about 5-15 years. Let's say you hire the person with the second CV. She has a number of years of experience under her belt, but no .NET experience at all.
 
@@ -24,17 +24,17 @@ Despite the scepticism of the team, she is able to pick C# up really quickly. Sh
 
 What I'm essentially saying is that it doesn't matter whether the programmer you're considering has deep knowledge of the language or framework your system uses. But if that's what I'm saying, how on earth are you meant to decide whether a coder is up to the task? How do you know they'll be able to pick up C# and add value to your project without slowing you down?
 
-###Core concepts
+###A very particular set of skills
 
-Software engineering is about a lot more than the language or framework you're using. In my experience, the better developer to have on your team is often the one that understands fundamental software engineering practices, rather than the one with deep framework or language knowledge. Here's my take on the 'particular set of skills' a good polyglot programmer should possess:
+Software engineering is about a lot more than the language or framework you're using. In my experience, the better developer to have on your team is often the one that understands fundamental software engineering practices, rather than the one with deep framework or language knowledge. Here's my take on skills a good polyglot programmer should possess:
 
-####Automated testing skills
+####Automated testing
 maintainability, extensibility
 
-####Design experience
+####Design
 The D of TDD, OO, emergent design, refactoring
 
-####Deployment skills
+####Deployment
 Configuration, automation
 
 ###Varied experience
