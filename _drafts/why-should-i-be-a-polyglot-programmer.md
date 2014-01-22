@@ -31,7 +31,10 @@ What I'm essentially saying is that it doesn't matter whether the programmer you
 Software engineering is about a lot more than the language or framework you're using. In my experience, the better developer to have on your team is often the one that understands fundamental software engineering practices, rather than the one with deep framework or language knowledge. Here's my take on skills a good polyglot programmer should possess:
 
 ####Automated testing
-maintainability, extensibility
+
+The two aspects that most often go wrong on software projects are maintainability and extensibility. This is often due to bad design, which we'll talk about in a moment. Irrespective of how your software is designed, though, if it is not tested, you're going to struggle. Automated tests are a living specification of a system's behaviour. When we want to modify the system, it is the tests that guide us and help us to understand how the changes we are making impact the system's behaviour. Automated tests stop bugs before they hit production, as they are coded, so that we have fewer maintenance issues in production. Automated tests help us to ensure that we're not breaking existing functionality when we add new features.
+
+A developer who understands the importance of testing and knows how to write good tests will be an invaluable asset to your team. They should know how to write functional tests (so that they can protect your features), how to write unit and integration tests (to ensure that the internal structure of your system is sound) and how to practise Test Driven Development (so that your system is fully tested and well designed).
 
 ####Design
 The D of TDD, OO, emergent design, refactoring
@@ -49,8 +52,8 @@ She observes that the team deploys their application manually. She has automated
 
 Knowing multiple languages allows the polyglot programmer to pick the right technology for the problem at hand. 
 
-Part of the culture at [ThoughtWorks](http://www.thoughtworks.com) is to encourage developers to learn different languages. This is partially due to the fact that ThoughtWorkers tend to be quite geeky and like knowing lots of different languages, but is also due to the nature of the business. ThoughtWorks is a consulting company, which means that the languages we code in are most often influenced by the problems our clients are trying to solve. We use Java, Ruby, Python, Javascript, Clojure, C# and a host of other languages, depending on which language (or combination of languages) is best suited to the task at hand. We also often need to work within our clients' constraints. If they're a large organisation and all of their infrastructure runs Unix, it's unlikely that writing them a .NET application is going to be a good bet.
+Part of the culture at [ThoughtWorks](http://www.thoughtworks.com) is to encourage developers to learn different languages. This is partially due to the fact that ThoughtWorkers tend to be quite geeky and like knowing lots of different languages, but is also due to the nature of the business. ThoughtWorks is a consulting company, which means that the languages we code in are most often influenced by the problems our clients are trying to solve. As consultants, we've seen the value of varied experience first hand in allowing people to use technology that really helps solve a problem. Software built on the wrong technology stack is never pretty and usually stunts the organisation's growth.
 
-Most projects use multiple languages. No matter what the tech stack, modern applications often consist of a mix of languages. If you're writing a web application, it's very likely that you'll be writing some HTML, CSS and Javascript, whether you're building it using Rails or ASP.NET MVC. You might use a Python library like Fabric to deploy your Java application.
+No matter what the tech stack, modern applications often consist of a mix of languages. If you're writing a web application, it's very likely that you'll be writing some HTML, CSS and Javascript, whether you're building it using Rails or ASP.NET MVC. You might use a Python library like Fabric to deploy your Java application. You might have a Javascript front end (using something like Angular or Ember) that talks to a web server written in Ruby.
 
 
