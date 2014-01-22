@@ -74,6 +74,6 @@ The polyglot programmer you hire should be able to use to breadth of their exper
 
 ##I'm sold! Where do I find one?
 
-Finding good developers is not very easy at the moment. Bad development practices are widespread (and often encouraged) in the industry. If you find a developer who matches the criteria I've described in this post, snap them up! Remember to look past their experience in your language or framework on their CV - otherwise you will very easily miss out on a positive influence on your team.
+Finding good developers is not easy at the moment. Bad development practices are widespread (and often encouraged) in the industry. If you find a developer who matches the criteria I've described in this post, snap them up! Remember to look past their experience in your language or framework on their CV - otherwise you will miss out on a positive influence on your team.
 
 My parting shot will be to say that, if you can't find a good polyglot programmer, you have the power to create one! Encourage your development team to broaden their skill set, give them the time to experiment with new languages, frameworks and tools. And, most importantly, make sure you're helping them build that very particular set of skills. Those skills that differentiate a great developer from a decent one, no matter which language they're coding in.
