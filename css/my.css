@@ -7,26 +7,3 @@
 	background-color: rgb(230,230,230);
 	padding: 10px;
 }
-
-.info-box{
-	position: absolute;
-	left: 100px;
-	top: 250px;
-	background-color: #00FF48;
-	width: 300px;
-	padding: 10px;
-	line-height: 1.2em;
-	border-radius: 5px;
-	text-align: left;
-}
-
-.info-box h1{
-	font-size: 1.2em;
-}
-
-.info-box a,
-.info-box a:active,
-.info-box a:visited,
-.info-box a:hover{
-	color: black;
-}
