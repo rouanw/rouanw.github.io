@@ -38,7 +38,11 @@ A developer who understands the importance of testing and knows how to write goo
 
 ####Design
 
-Many of my colleagues prefer to call TDD Test Driven *Design*. I like this because it highlights that writing your tests before your code is more a design activity than a development activity. When you write your tests first, you grow the components of your system from the perspective of a consumer, which means that a focus on its design is baked in from the start. A good polyglot programmer understands this. They don't neglect the refactoring step that forms an often ignored part of TDD, in order to make sure your system takes on a sensible shape. It is this constant refactoring that we refer to as emergent design and is all about making sure that the design of the program we are writing evolves in a way that is easily maintainable and extensible. The polyglot programmer you want to hire will understand emergent design, understand object oriented programming and they know how to refactor code to be nicer to work with.
+Many of my colleagues prefer to call TDD Test Driven *Design*. I like this because it highlights that writing your tests before your code is more a design activity than a development activity. When you write your tests first, you grow the components of your system from the perspective of a consumer, which means that a focus on its design is baked in from the start. A good polyglot programmer understands this. They don't neglect the refactoring step that forms an often ignored part of TDD, in order to make sure your system takes on a sensible shape. 
+
+It is this constant refactoring that we refer to as emergent design and is all about making sure that the design of the program we are writing evolves in a way that is easily maintainable and extensible. When I talk about design, I'm not thinking of UML diagrams or planning out the details of the system in advance. I am talking about an awareness of what good code looks like and ensuring that the team is constantly making the small changes required to ensure that the code stays good.
+
+The polyglot programmer you want to hire will understand emergent design, understand object oriented programming and they know how to refactor code to be nicer to work with.
 
 ####Deployment
 Configuration, automation
