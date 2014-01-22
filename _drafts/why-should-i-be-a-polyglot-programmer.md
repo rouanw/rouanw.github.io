@@ -18,7 +18,7 @@ they're concerned that the person doesn't have the skills required for the job. 
 
 Let me set the scene. Your organisation's technology stack is .NET. Your development team is a group of seasoned .NET developers. Their experience ranges from about 5-15 years. You hire the perosn with the second CV. She has a number of years of experience under her belt, but no .NET experience at all.
 
-Despite the scepticism of the team, she is able to pick C# up really quickly. She is able to not only keep up with the team, but teach them many new things. Let's have a look at why.
+Despite the scepticism of the team, she is able to pick C# up really quickly. She is not only able to keep up with the team, but ends up teaching them many new things. Let's have a look at why.
 
 ## If languages don't matter, what does?
 
@@ -26,7 +26,7 @@ What I'm essentially saying is that it doesn't matter whether the programmer you
 
 ###Core concepts
 
-Software engineering is about a lot more than the language or framework you're using. In my experience, the better developer to have on your team is often the one that understands fundamental software engineering practices, rather than the one with deep framework or language knowledge.
+Software engineering is about a lot more than the language or framework you're using. In my experience, the better developer to have on your team is often the one that understands fundamental software engineering practices, rather than the one with deep framework or language knowledge. Here's my take on the 'particular set of skills' a good polyglot programmer should possess:
 
 ####Automated testing skills
 maintainability, extensibility
