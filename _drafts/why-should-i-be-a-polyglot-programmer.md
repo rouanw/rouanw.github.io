@@ -62,7 +62,7 @@ She observes that the team deploys their application manually. She has automated
 
 The polyglot programmer brings with them an invaluable breadth of experience. They will open your team's eyes to the development practices and tools that are common in other languages.
 
-### The right tool for the job
+###The right tool for the job
 
 Knowing multiple languages allows the polyglot programmer to pick the right technology for the problem at hand. 
 
@@ -72,3 +72,8 @@ No matter what the tech stack, modern applications often consist of a mix of lan
 
 The polyglot programmer you hire should be able to use to breadth of their experience to help you make smart decisions about which technology to use.
 
+##I'm sold! Where do I find one?
+
+Finding good developers is not very easy at the moment. Bad development practices are widespread (and often encouraged) in the industry. If you find a developer who matches the criteria I've described in this post, snap them up! Remember to look past their experience in your language or framework on their CV - otherwise you will very easily miss out on a positive influence on your team.
+
+My parting shot will be to say that, if you can't find a good polyglot programmer, you have the power to create one! Encourage your development team to broaden their skill set, give them the time to experiment with new languages, frameworks and tools. And, most importantly, make sure they're focusing on building that very particular set of skills. The skills that differentiate between a decent developer and one that will have a major positive impact.
