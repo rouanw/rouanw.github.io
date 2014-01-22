@@ -16,7 +16,7 @@ on the CV in front of them, so when they see the CV that says
 
 they're concerned that the person doesn't have the skills required for the job. I'm going to argue that this reaction, although natural, is misguided. I say that the person with the second CV might well be a better developer on a C# project, despite having little or no C# experience. As you read on you'll see that I'm talking about any developer who happens to know a few languages, but a particular kind of polyglot programmer (with a very [particular set of skills](http://www.youtube.com/watch?v=B0hZ1KKpV54)).
 
-Let me set the scene. Your organisation's technology stack is .NET. Your development team is a group of seasoned .NET developers. Their experience ranges from about 5-15 years. You hire the perosn with the second CV. She has a number of years of experience under her belt, but no .NET experience at all.
+Let me set the scene. Your organisation's technology stack is .NET. Your development team is a group of seasoned .NET developers. Their experience ranges from about 5-15 years. Let's say you hire the person with the second CV. She has a number of years of experience under her belt, but no .NET experience at all.
 
 Despite the scepticism of the team, she is able to pick C# up really quickly. She is not only able to keep up with the team, but ends up teaching them many new things. Let's have a look at why.
 
