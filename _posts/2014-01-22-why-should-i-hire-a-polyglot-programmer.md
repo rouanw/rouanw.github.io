@@ -50,7 +50,7 @@ The polyglot programmer you want to hire will understand emergent design, unders
 
 Your software is useless unless it is in production. No matter how innovative the features are that you've developed, no matter how confident you are that it does what it's meant to and no matter how well designed it is, if a user cannot use it, it is useless.
 
-A good developer will know how to deploy applications. They should understand how to configure the applications so that they work in the right way. Very importantly, they should know how to automated the configuration and deployment of your application. Without automated deployments, you will always struggle to put your organisation's new ideas (and the hard work of your development team) in front of your users. Without automated deployments, your application's infrastructure will become mysterious and unpredictable.
+A good developer will know how to deploy applications. They should understand how to configure the applications so that they work in the right way. Very importantly, they should know how to automate the configuration and deployment of your application. Without automated deployments, you will always struggle to put your organisation's new ideas (and the hard work of your development team) in front of your users. Without automated deployments, your application's infrastructure will become mysterious and unpredictable.
 
 When you hire a developer who knows how to help you automate the deployment and configuration of your applications, you gain the potential to move quickly on new ideas and gain the confidence that your application can recover from disasters.
 
@@ -66,7 +66,7 @@ The polyglot programmer brings with them an invaluable breadth of experience. Th
 
 Knowing multiple languages allows the polyglot programmer to pick the right technology for the problem at hand. 
 
-Not all applications are the same. The problems they seek to solve, or the opportunities they seek to leverage, are vastly different. Why should you care? Because different jobs require different tools. Software built on the wrong technology stack is ugly and painful. Why are you using Java to solve a clearly functional problem? Maybe you should be using Clojure instead. Why are you building a plain Rails app when your users are complaining that they need a more fluid interface? Maybe you should be using a single page Javscript framework.
+Not all applications are the same. The problems they seek to solve, or the opportunities they seek to leverage, are vastly different. Why should you care? Because different jobs require different tools. Software built on the wrong technology stack is ugly and painful. Why are you using Java to solve a clearly functional problem? Maybe you should be using Clojure instead. Why are you building a plain Rails app when your users are complaining that they need a more fluid interface? Maybe you should be using a single page JavaScript framework.
 
 No matter what the tech stack, modern applications often consist of a mix of languages. If you're writing a web application, it's very likely that you'll be writing some HTML, CSS and Javascript, whether you're building it using Rails or ASP.NET MVC. You might use a Python library like Fabric to deploy your Java application. You might have a fat Javascript front end that talks to a web server written in Ruby.
 
@@ -75,5 +75,7 @@ The polyglot programmer you hire should be able to use to breadth of their exper
 ##I'm sold! Where do I find one?
 
 Finding good developers is not easy at the moment. Bad development practices are widespread (and often encouraged) in the industry. If you find a developer who matches the criteria I've described in this post, snap them up! Remember to look past their experience in your language or framework on their CV - otherwise you will miss out on a positive influence on your team.
+
+It's worth pointing out that I'm not trying to say that deep knowledge of a language or framework is not useful. It's often very important, so don't run off and fire your team of language experts. The point I'm trying to make is that the good polyglot programmer brings a set of valuable general skills to the team and is able to learn the specifics fast enough.
 
 My parting shot will be to say that, if you can't find a good polyglot programmer, you have the power to create one! Encourage your development team to broaden their skill set, give them the time to experiment with new languages, frameworks and tools. And, most importantly, make sure you're helping them build that very particular set of skills. Those skills that differentiate a great developer from a decent one, no matter which language they're coding in.
