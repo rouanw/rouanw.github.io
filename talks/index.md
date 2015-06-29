@@ -6,6 +6,12 @@ share: false
 ---
 # Talks
 
+__Upcoming conferences__  
+[JavaScript in South Africa](http://www.jsinsa.com/jsinsa/2015/index.html) - 11 Jul 2015  
+[Agile Africa](http://agileafrica.jcse.org.za/proposal/emergent-design-cakes-showers-and-electricians) - 24-26 Aug 2015  
+[PHP Craft](http://phpsouthafrica.com/) - 1-2 Oct 2015  
+{: .notice}
+
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
 
 ### Conferences
@@ -49,6 +55,9 @@ July 2013 (with Rachel Laycock) - [event details](http://info.thoughtworks.com/t
 <iframe src="http://www.slideshare.net/rouanw/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
 
 ## Publications
+
+__My Life as a Developer at ThoughtWorks South Africa__  
+[Interview with ThoughtWorks Insights](http://www.thoughtworks.com/insights/blog/my-life-developer-thoughtworks-south-africa)
 
 __Four attributes of an agile business__  
 [Thoughtworks Insights](http://www.thoughtworks.com/insights/blog/four-attributes-agile-business)
