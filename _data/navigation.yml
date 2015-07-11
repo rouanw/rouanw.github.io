@@ -1,7 +1,10 @@
 # Site navigation links
 
-- title: Talks & Publications
+- title: Talks
   url: /talks/
+
+- title: Publications
+  url: /publications/
 
 - title: <img id="writing-pod-logo" src="/images/writing-pod.png"/>
   url: http://www.writingpod.com

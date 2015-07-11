@@ -55,14 +55,3 @@ July 2013 (with Rachel Laycock) - [event details](http://info.thoughtworks.com/t
 # Slides
 
 <iframe src="http://www.slideshare.net/rouanw/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
-
-## Publications
-
-__My Life as a Developer at ThoughtWorks South Africa__  
-[Interview with ThoughtWorks Insights](http://www.thoughtworks.com/insights/blog/my-life-developer-thoughtworks-south-africa)
-
-__Four attributes of an agile business__  
-[Thoughtworks Insights](http://www.thoughtworks.com/insights/blog/four-attributes-agile-business)
-
-__Why you should hire a polyglot programmer__  
-[P2 Magazine](http://thoughtworks.github.io/p2/issue09/hire-polyglot/)
