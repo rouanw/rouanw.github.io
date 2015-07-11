@@ -7,7 +7,6 @@ share: false
 # Talks
 
 __Upcoming conferences__  
-[JavaScript in South Africa](http://www.jsinsa.com/jsinsa/2015/index.html) - 11 Jul 2015  
 [Agile Africa](http://agileafrica.jcse.org.za/proposal/emergent-design-cakes-showers-and-electricians) - 24-26 Aug 2015  
 [PHP Craft](http://phpsouthafrica.com/) - 1-2 Oct 2015  
 {: .notice}
@@ -15,6 +14,9 @@ __Upcoming conferences__
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
 
 ### Conferences
+
+__How to make your CSS not suck__  
+JavaScript in South Africa 2015 (with Socrates Hlapolosa) - [slides](http://www.slideshare.net/rouanw/how-to-make-your-css-not-suck), [code](https://github.com/rouanw/style-guide-demo)
 
 __Annotator - bring the conversation to your content__  
 JavaScript in South Africa 2014 - [summary](http://www.jsinsa.com/jsinsa/2014/files/cheatsheet/JSinSA%202014%20handout%20-%20Annotator.pdf), [code](https://github.com/rouanw/jsinsa2014)
