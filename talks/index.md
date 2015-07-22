@@ -24,6 +24,9 @@ JavaScript in South Africa 2014 - [summary](http://www.jsinsa.com/jsinsa/2014/fi
 __Four Attributes of an Agile Business__  
 Agile Africa 2014 - [video](https://www.youtube.com/watch?v=yBAhKK3_1j8), [slides](http://www.slideshare.net/rouanw/four-attributes-of-an-agile-business), [event details](http://agileafrica.jcse.org.za/node/36)
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/yBAhKK3_1j8" frameborder="0" allowfullscreen></iframe>
+<br/>
+
 __Using lineman to build fat JS apps independent of the server-side__  
 JavaScript in South Africa 2013 (with Daniel Temme) - [code](https://github.com/dmt/tourism-app)
 
