@@ -1,0 +1,13 @@
+.promo {
+  @extend .notice;
+  min-height: 250px;
+  img {
+    float: left;
+    max-width: 16em;
+    max-height: 13em;
+    margin-right: 1em;
+  }
+  strong {
+    font-size: 1.2em;
+  }
+}
