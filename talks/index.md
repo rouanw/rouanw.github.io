@@ -6,9 +6,10 @@ share: false
 ---
 # Talks
 
-__Upcoming conferences__  
+__Upcoming talks__  
 [Agile Africa](http://agileafrica.jcse.org.za/proposal/emergent-design-cakes-showers-and-electricians) - 24-26 Aug 2015  
-[PHP Craft](http://phpsouthafrica.com/) - 1-2 Oct 2015  
+[PHP Craft](http://phpsouthafrica.com/#schedule) - 1-2 Oct 2015  
+[Scrum User Group Johannesburg](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/) - 11 Nov 2015  
 {: .notice}
 
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
