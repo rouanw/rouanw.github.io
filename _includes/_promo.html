@@ -1,7 +1,12 @@
 <div class="promo">
   <p>
     <strong>{{include.title}}</strong>
-    <br/>{{include.type}} <a href="{{include.url}}">{{include.publication}}</a>
+    <br/>{{include.type}}
+    {% if include.directUrl %}
+    <a href="{{include.directUrl}}">{{include.directUrl}}</a>
+    {% else %}
+    <a href="{{include.url}}">{{include.publication}}</a>
+    {% endif %}
   </p>
   <a href="{{include.url}}"><img src="{{ site.url }}/{{include.imageUrl}}"></a>
 
