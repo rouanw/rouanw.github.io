@@ -2,10 +2,14 @@
   @extend .notice;
   min-height: 250px;
   img {
-    float: left;
+    float: none;
     max-width: 16em;
     max-height: 13em;
     margin-right: 1em;
+    margin-bottom: 1em;
+    @media #{$small} {
+      float: left;
+    }
   }
   strong {
     font-size: 1.2em;
