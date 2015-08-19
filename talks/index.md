@@ -56,7 +56,7 @@ __The JavaScript juggernaut rolls on__
 March 2014 - [event details](http://info.thoughtworks.com/techradar-event-johannesburg-4march2014-registration.html)
 
 __Infrastructure as code__  
-July 2013 (with Rachel Laycock) - [event details](http://info.thoughtworks.com/tech_radar_event_18_july_2013_registration_page.html)
+July 2013 (with Rachel Laycock) - [slides](http://www.slideshare.net/rouanw/may-2013-thoughtworks-tech-radar), [event details](http://info.thoughtworks.com/tech_radar_event_18_july_2013_registration_page.html), [press](http://www.htxt.co.za/2013/07/19/thoughtworks-wants-to-burn-your-servers/)
 
 # Slides
 
