@@ -15,6 +15,7 @@ __Upcoming talks__
 ## Consulting
 
 I've consulted to clients in the financial services, health, media and education sectors. I've worked as an agile coach, helping teams learn agile practices and helping organisations change the way they deliver software to their customers. Take a look at my thoughts on __what makes an organisation agile__:
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/yBAhKK3_1j8" frameborder="0" allowfullscreen></iframe>
 
 - - -
