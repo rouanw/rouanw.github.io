@@ -31,4 +31,5 @@ I believe in building quality into the process of developing software. I'm an ac
 ## Polyglot programming
 
 I've delivered systems in Java, .NET, JavaScript, Python and Ruby. Have a look at why I think __polyglot  programming__ is so important:
+
 {% include _promo.html title="Why you should hire a polyglot programmer" type="Article in" publication="P2 Magazine" url="http://thoughtworks.github.io/p2/issue09/hire-polyglot/" imageUrl="images/p2.png" description="It’s common for people to be sceptical of software developers with varied coding experience. We’re used to seeing, “5 years C# experience” on the CV in front of us, so when we see a CV that says: “2 years of Ruby, 1 year of Python and 2 years of Java”, we might be concerned that the person doesn’t have the depth of experience we need. Although this reaction is natural, it’s misguided." %}
