@@ -12,17 +12,17 @@ __Upcoming talks__
 [Scrum User Group Johannesburg](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/) - 11 Nov 2015  
 {: .notice}
 
-## Consulting
+## What makes you agile?
 
-I've consulted to clients in the financial services, health, media and education sectors. I've worked as an agile coach, helping teams learn agile practices and helping organisations change the way they deliver software to their customers. Take a look at my thoughts on __what makes an organisation agile__:
+How quickly can you respond to change?  Take a look at my thoughts on __what makes an organisation agile__:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/yBAhKK3_1j8" frameborder="0" allowfullscreen></iframe>
 
 - - -
 
-## Agile engineering
+## Engineering practices
 
-I believe in building quality into the process of developing software. I'm an active practitioner of agile engineering practices like Test Driven Development, pair programming, continuous integration and emergent design. I help teams work towards __Continuous Delivery__, so that they can put new features in production all the time.
+How do you create software that is an asset to your organisation? By building quality into the process of developing software. I'm an active practitioner of agile engineering practices like Test Driven Development, pair programming, continuous integration and emergent design. I help teams work towards __Continuous Delivery__, so that they can put new features in front of customers all the time.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6ex1dmRt7yn4NA" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rouanw/lets-release-it-an-intro-to-continuous-delivery" title="Let&#x27;s release it - an intro to Continuous Delivery" target="_blank">Let&#x27;s release it - an intro to Continuous Delivery</a> </strong> from <strong><a href="//www.slideshare.net/rouanw" target="_blank">rouanw</a></strong> </div>
 
