@@ -7,7 +7,6 @@ share: false
 # Talks
 
 __Upcoming talks__  
-[Agile Africa](http://agileafrica.jcse.org.za/proposal/emergent-design-cakes-showers-and-electricians) - 24-26 Aug 2015  
 [Lean Enterprise](http://info.thoughtworks.com/lean-enterprise-community-registration-page-sa.html) with Barry O'Reilly - 31 Aug 2015  
 [PHP Craft](http://phpsouthafrica.com/#schedule) - 1-2 Oct 2015  
 [Scrum Gathering](http://sugsa.org.za/scrum-gathering-south-africa-2015/speakers/rouan-wilsenach-heroes-need-sleep-too-techniques-for-stress-free-software-releases/) - 19-20 Oct 2015  
@@ -17,6 +16,9 @@ __Upcoming talks__
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
 
 ### Conferences
+
+__Emergent Design: Cakes, Showers and Electricians__  
+Agile Africa 2015 - [slides](http://www.slideshare.net/rouanw/emergent-design-cakes-showers-and-electricians), [event details](http://agileafrica.jcse.org.za/proposal/emergent-design-cakes-showers-and-electricians)
 
 __How to make your CSS not suck__  
 JavaScript in South Africa 2015 (with Socrates Hlapolosa) - [slides](http://www.slideshare.net/rouanw/how-to-make-your-css-not-suck), [code](https://github.com/rouanw/style-guide-demo)
