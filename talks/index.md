@@ -7,7 +7,6 @@ share: false
 # Talks
 
 __Upcoming talks__  
-[Lean Enterprise](http://info.thoughtworks.com/lean-enterprise-community-registration-page-sa.html) with Barry O'Reilly - 31 Aug 2015  
 [PHP Craft](http://phpsouthafrica.com/#schedule) - 1-2 Oct 2015  
 [Scrum Gathering](http://sugsa.org.za/scrum-gathering-south-africa-2015/speakers/rouan-wilsenach-heroes-need-sleep-too-techniques-for-stress-free-software-releases/) - 19-20 Oct 2015  
 [Scrum User Group Johannesburg](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/) - 11 Nov 2015  
@@ -49,16 +48,19 @@ April 2014 Developer User Group - [slides](http://www.slideshare.net/rouanw/infr
 __Developer Yoga: How being flexible helps__  
 LevelUp Jozi - [slides](https://github.com/rouanw/developer-yoga)
 
-### ThoughtWorks Technology Radar
+### ThoughtWorks
+
+__Lean Enterprise__  
+ThoughtWorks Community Event (with Barry O'Reilly) - [event details](http://info.thoughtworks.com/lean-enterprise-community-registration-page-sa.html)
 
 __Microservices__  
-August 2014 - [slides](http://www.slideshare.net/rouanw/microservices-rouan-wilsenach), [event details](http://info.thoughtworks.com/techradar-event-2aug2014-johannesburg-registration.html)
+August 2014 Tech Radar - [slides](http://www.slideshare.net/rouanw/microservices-rouan-wilsenach), [event details](http://info.thoughtworks.com/techradar-event-2aug2014-johannesburg-registration.html)
 
 __The JavaScript juggernaut rolls on__  
-March 2014 - [slides](http://www.slideshare.net/rouanw/thoughtworks-tech-radar-jan-2014), [event details](http://info.thoughtworks.com/techradar-event-johannesburg-4march2014-registration.html)
+March 2014 Tech Radar - [slides](http://www.slideshare.net/rouanw/thoughtworks-tech-radar-jan-2014), [event details](http://info.thoughtworks.com/techradar-event-johannesburg-4march2014-registration.html)
 
 __Infrastructure as code__  
-July 2013 (with Rachel Laycock) - [slides](http://www.slideshare.net/rouanw/may-2013-thoughtworks-tech-radar), [event details](http://info.thoughtworks.com/tech_radar_event_18_july_2013_registration_page.html), [press](http://www.htxt.co.za/2013/07/19/thoughtworks-wants-to-burn-your-servers/)
+July 2013 Tech Radar (with Rachel Laycock) - [slides](http://www.slideshare.net/rouanw/may-2013-thoughtworks-tech-radar), [event details](http://info.thoughtworks.com/tech_radar_event_18_july_2013_registration_page.html), [press](http://www.htxt.co.za/2013/07/19/thoughtworks-wants-to-burn-your-servers/)
 
 # Slides
 
