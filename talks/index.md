@@ -18,7 +18,10 @@ Here is a list of talks I've presently recently. Please get in touch if you'd li
 ### Conferences
 
 __Emergent Design: Cakes, Showers and Electricians__  
-Agile Africa 2015 - [slides](http://www.slideshare.net/rouanw/emergent-design-cakes-showers-and-electricians), [event details](http://agileafrica.jcse.org.za/proposal/emergent-design-cakes-showers-and-electricians)
+Agile Africa 2015 - [video](https://www.youtube.com/watch?v=30sYOHSh3LY), [slides](http://www.slideshare.net/rouanw/emergent-design-cakes-showers-and-electricians), [event details](http://agileafrica.jcse.org.za/proposal/emergent-design-cakes-showers-and-electricians)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/30sYOHSh3LY" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 __How to make your CSS not suck__  
 JavaScript in South Africa 2015 (with Socrates Hlapolosa) - [slides](http://www.slideshare.net/rouanw/how-to-make-your-css-not-suck), [code](https://github.com/rouanw/style-guide-demo)
