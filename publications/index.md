@@ -7,6 +7,8 @@ share: false
 
 ## Publications
 
+{% include _promo.html title="Is QA dead?" type="Article on" publication="ThoughtWorks Insights" url="https://www.thoughtworks.com/insights/blog/qa-dead" imageUrl="images/is-qa-dead.png" description="Test automation is not a new practice. Most software teams are trying to automate testing in some way or another, especially as a replacement for long, manual regression testing cycles. If you’re a QA, you’ve probably wondered what this means for your job. In the world of ‘automate everything’ – where do you fit in? Is the role of the QA dead?" %}
+
 {% include _promo.html title="DevOps culture" type="Bliki post on" publication="martinfowler.com" url="http://martinfowler.com/bliki/DevOpsCulture.html" imageUrl="images/devops_culture.png" description="DevOps is a movement to break down traditional silos between developers, operations and other delivery groups. Although many tools are useful, it is primarily a cultural change." %}
 
 {% include _promo.html title="Four attributes of an agile business" type="Article on" publication="ThoughtWorks Insights" url="http://www.thoughtworks.com/insights/blog/four-attributes-agile-business" imageUrl="images/four_attributes.jpg" description="Building software is something that your business needs to do well. You see more revenue moving through digital channels and you’re starting to realise that this trend will continue. Your company’s ability to remain competitive hinges on your use of technology. This same technology gives new competitors the ability to springboard their businesses and scale quickly." %}
