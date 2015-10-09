@@ -7,7 +7,6 @@ share: false
 # Talks
 
 __Upcoming talks__  
-[Tech4Africa](http://t4a2015.sched.org/event/c1af75599f69612f590d3a3f01099961) - 7-8 Oct 2015  
 [Scrum Gathering](http://sugsa.org.za/scrum-gathering-south-africa-2015/speakers/rouan-wilsenach-heroes-need-sleep-too-techniques-for-stress-free-software-releases/) - 19-20 Oct 2015  
 [Scrum User Group Johannesburg](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/) - 11 Nov 2015  
 {: .notice}
@@ -15,6 +14,10 @@ __Upcoming talks__
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
 
 ### Conferences
+
+__Why you should be a polyglot programmer__  
+Tech4Africa Jo'burg 2015
+[slides](http://www.slideshare.net/rouanw/be-a-polyglot-programmer-r-wilsenach), [event details](http://t4a2015.sched.org/event/c1af75599f69612f590d3a3f01099961)
 
 __Emergent Design: Cakes, Showers and Electricians__  
 Agile Africa 2015 - [video](https://www.youtube.com/watch?v=30sYOHSh3LY), [slides](http://www.slideshare.net/rouanw/emergent-design-cakes-showers-and-electricians), [event details](http://agileafrica.jcse.org.za/proposal/emergent-design-cakes-showers-and-electricians)  
