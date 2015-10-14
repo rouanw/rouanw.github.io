@@ -7,6 +7,8 @@ share: false
 
 ## Publications
 
+{% include _promo.html title="Running the gauntlet: Setting up your first deployment pipeline" type="Article on" publication="TechBeacon" url="http://techbeacon.com/running-gauntlet-setting-your-first-deployment-pipeline" imageUrl="images/pipeline.jpg" description="You have a new feature you need to take to production. Maybe you've created it to respond to some customer feedback or a new opportunity in the market, and the business wants to deploy it as quickly as possible. Do you know the path the code must take from a development machine to production? How do you know the changes you've made aren't going to break existing functionality? To answer these questions, you need a deployment pipeline." %}
+
 {% include _promo.html title="Is QA dead?" type="Article on" publication="ThoughtWorks Insights" url="https://www.thoughtworks.com/insights/blog/qa-dead" imageUrl="images/is-qa-dead.png" description="Test automation is not a new practice. Most software teams are trying to automate testing in some way or another, especially as a replacement for long, manual regression testing cycles. If you’re a QA, you’ve probably wondered what this means for your job. In the world of ‘automate everything’ – where do you fit in? Is the role of the QA dead?" %}
 
 {% include _promo.html title="DevOps culture" type="Bliki post on" publication="martinfowler.com" url="http://martinfowler.com/bliki/DevOpsCulture.html" imageUrl="images/devops_culture.png" description="DevOps is a movement to break down traditional silos between developers, operations and other delivery groups. Although many tools are useful, it is primarily a cultural change." %}
