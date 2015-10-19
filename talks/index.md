@@ -6,8 +6,7 @@ share: false
 ---
 # Talks
 
-__Upcoming talks__  
-[Scrum Gathering](http://sugsa.org.za/scrum-gathering-south-africa-2015/speakers/rouan-wilsenach-heroes-need-sleep-too-techniques-for-stress-free-software-releases/) - 19-20 Oct 2015  
+__Upcoming talks__    
 [Scrum User Group Johannesburg](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/) - 11 Nov 2015  
 {: .notice}
 
@@ -15,9 +14,11 @@ Here is a list of talks I've presently recently. Please get in touch if you'd li
 
 ### Conferences
 
+__Techniques for stress-free software releases__  
+Scrum Gathering Johannesburg 2015 - [slides](http://www.slideshare.net/rouanw/techniques-for-stress-free-software-releases), [event details](http://sugsa.org.za/scrum-gathering-south-africa-2015/speakers/rouan-wilsenach-heroes-need-sleep-too-techniques-for-stress-free-software-releases/)
+
 __Why you should be a polyglot programmer__  
-Tech4Africa Jo'burg 2015
-[slides](http://www.slideshare.net/rouanw/be-a-polyglot-programmer-r-wilsenach), [event details](http://t4a2015.sched.org/event/c1af75599f69612f590d3a3f01099961)
+Tech4Africa Jo'burg 2015 - [slides](http://www.slideshare.net/rouanw/be-a-polyglot-programmer-r-wilsenach), [event details](http://t4a2015.sched.org/event/c1af75599f69612f590d3a3f01099961)
 
 __Emergent Design: Cakes, Showers and Electricians__  
 Agile Africa 2015 - [video](https://www.youtube.com/watch?v=30sYOHSh3LY), [slides](http://www.slideshare.net/rouanw/emergent-design-cakes-showers-and-electricians), [event details](http://agileafrica.jcse.org.za/proposal/emergent-design-cakes-showers-and-electricians)  

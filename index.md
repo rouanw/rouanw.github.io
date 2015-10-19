@@ -5,7 +5,6 @@ tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, 
 ---
 
 __Upcoming talks__  
-[Scrum Gathering](http://sugsa.org.za/scrum-gathering-south-africa-2015/speakers/rouan-wilsenach-heroes-need-sleep-too-techniques-for-stress-free-software-releases/) - 19-20 Oct 2015  
 [Scrum User Group Johannesburg](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/) - 11 Nov 2015  
 {: .notice}
 
