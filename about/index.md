@@ -2,7 +2,10 @@
 layout: page
 excerpt: "Rouan Wilsenach - Software Developer at ThoughtWorks"
 tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery]
+share: false
 ---
+
+## About me
 
 I'm a software developer at ThoughtWorks. I'm passionate about creating software that improves people’s lives.
 
