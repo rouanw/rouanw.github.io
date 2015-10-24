@@ -11,9 +11,9 @@ I'm a software developer at ThoughtWorks. I've spent the past few years working 
 
 ### Coding and coaching
 
-I enjoy helping teams find better ways of working together and building software. I've coached teams on agile practices, especially software engineering practices such as Test Driven Development, Emergent Design and Continuous Integration.
+I enjoy helping teams find better ways of working together and building software. I've coached teams on agile practices, especially software engineering practices such as Test Driven Development, [Emergent Design](http://www.slideshare.net/rouanw/emergent-design-cakes-showers-and-electricians) and [Continuous Integration](http://www.slideshare.net/rouanw/continuous-integration-51794067).
 
-I'm a [DevOps](http://techbeacon.com/running-gauntlet-setting-your-first-deployment-pipeline) and Continuous Delivery practitioner and have helped teams automate their release pipelines and deployments.
+I'm a [DevOps](http://techbeacon.com/running-gauntlet-setting-your-first-deployment-pipeline) and [Continuous Delivery](http://www.slideshare.net/rouanw/lets-release-it-an-intro-to-continuous-delivery) practitioner and have helped teams automate their release pipelines and deployments.
 
 I consider myself to be a [polyglot programmer](http://thoughtworks.github.io/p2/issue09/hire-polyglot/) and have delivered systems in Java, .NET, JavaScript, Python and Ruby.
 
