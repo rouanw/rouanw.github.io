@@ -28,3 +28,13 @@
 .vertical-margin {
   margin: 1em 0;
 }
+
+.twitter-feed {
+  display: none;
+  @media #{$large} {
+    display: block;
+  }
+  @media #{$x-large} {
+    display: block;
+  }
+}
