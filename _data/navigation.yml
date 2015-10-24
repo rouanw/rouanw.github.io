@@ -3,11 +3,14 @@
 - title: Talks
   url: /talks/
 
-- title: Publications
+- title: Articles
   url: /publications/
 
 - title: Projects
   url: /projects/
+
+- title: About
+  url: /about/
 
 - title: <img id="writing-pod-logo" src="/images/writing-pod.png"/>
   url: http://www.writingpod.com

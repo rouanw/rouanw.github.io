@@ -5,7 +5,7 @@ tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, 
 share: false
 ---
 
-## Publications
+## Articles
 
 {% include _promo.html title="Stylish and Sane: A Guide to Better CSS" type="Article on" publication="InfoQ" url="http://www.infoq.com/articles/guide-to-better-css" imageUrl="images/infoq.jpg" description="Let's face it. All websites need CSS and yours is probably awful. There's too much of it. There's a bunch of duplication. It's like a delicately spun spider web, tightly coupled and fragile. It has more patches than a bicycle wheel. It doesn't need to be this way. I’ll introduce you to the concept of component-based styling and show you how to curate a style guide for your site." %}
 
