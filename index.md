@@ -8,17 +8,34 @@ __Upcoming talks__
 [Scrum User Group Johannesburg](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/) - 11 Nov 2015  
 {: .notice}
 
+## Build software better
+
+How do you build software incrementally while maintaining good design? Is that cake?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/30sYOHSh3LY" frameborder="0" allowfullscreen></iframe>
+
+- - -
+
+## DevOps is a culture
+
+The DevOps movement is about much more than tools. The 2015 State of DevOps report confirmed that organisations that excel at creating software are the ones with a more diverse workforce and a culture of sustainable pace.
+
+{% include _promo.html title="DevOps culture" type="Bliki post on" publication="martinfowler.com" url="http://martinfowler.com/bliki/DevOpsCulture.html" imageUrl="images/devops_culture.png" description="DevOps is a movement to break down traditional silos between developers, operations and other delivery groups. Although many tools are useful, it is primarily a cultural change." %}
+
+- - -
+
 ## What makes you agile?
 
-How quickly can you respond to change?  Take a look at my thoughts on __what makes an organisation agile__:
+How quickly can you respond to change? Do you care about feedback? Is your team supported and responsive? Is your code an asset? Do you know which way to go?
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/yBAhKK3_1j8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yBAhKK3_1j8" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 - - -
 
 ## Engineering practices
 
-How do you create software that is an asset to your organisation? By building quality into the process of developing software. I'm an active practitioner of agile engineering practices like Test Driven Development, pair programming, continuous integration and emergent design. I help teams work towards __Continuous Delivery__, so that they can put new features in front of customers all the time.
+How do you create software that is an asset to your organisation? By building quality into the process of developing software with engineering practices like Test Driven Development, pair programming, continuous integration and emergent design. The practices of Continuous Delivery help you ship code faster and more reliably.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6ex1dmRt7yn4NA" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rouanw/lets-release-it-an-intro-to-continuous-delivery" title="Let&#x27;s release it - an intro to Continuous Delivery" target="_blank">Let&#x27;s release it - an intro to Continuous Delivery</a> </strong> from <strong><a href="//www.slideshare.net/rouanw" target="_blank">rouanw</a></strong> </div>
 
