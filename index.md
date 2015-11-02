@@ -24,7 +24,7 @@ The DevOps movement is about much more than tools. The 2015 State of DevOps repo
 
 - - -
 
-## What makes you agile?
+## Software is eating the world
 
 How quickly can you respond to change? Do you care about feedback? Is your team supported and responsive? Is your code an asset? Do you know which way to go?
 
