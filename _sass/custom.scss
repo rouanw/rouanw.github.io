@@ -6,7 +6,6 @@
     max-width: 16em;
     max-height: 13em;
     margin-right: 1em;
-    margin-bottom: 1em;
     @media #{$small} {
       float: left;
     }
@@ -14,14 +13,16 @@
   strong {
     font-size: 1.2em;
   }
+  .logo {
+    max-width: 7em;
+    max-height: 2em;
+    float: none;
+  }
 }
 
 .top-navigation {
   img {
 		max-width: 6em;
-		&#writing-pod-logo {
-			margin-bottom: -0.3em;
-		}
 	}
 }
 

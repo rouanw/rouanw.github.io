@@ -7,7 +7,17 @@ share: false
 
 ## Projects
 
-Here are a few projects I've worked on that I'm allowed to share with you.
+A few [personal](#personal) and [professional](#professional) projects I've worked on.
+
+### <a name="personal"></a>Personal
+
+{% include _promo.html title="<img class=\"logo\" src=\"http://rouanw.github.io/blip/blip_logo.png\"/>" url="http://rouanw.github.io/blip" imageUrl="images/radar.png" description="Blip is an open source tool that helps you track and visualise the skills you are learning." %}
+
+{% include _promo.html title="<img class=\"logo\" src=\"/images/writing-pod.png\"/>" url="http://www.writingpod.com" imageUrl="images/writingpod_screenshot.png" description="WritingPod is an online writing community that allows writers to share their writing and get feedback on their work." %}
+
+### <a name="professional"></a>Professional
+
+Here are a few projects I've worked on professionally that I'm allowed to share with you.
 
 {% include _promo.html title="Standard Bank Online Banking" url="http://www.thoughtworks.com/clients/standard-bank" directUrl="https://experience.standardbank.co.za" imageUrl="images/online-banking.png" description="Recognising the critical role that technology plays in meeting the ever-evolving needs of their customers, Standard Bank partnered with ThoughtWorks to develop their new Internet banking website, an essential customer-facing platform for their business." %}
 
