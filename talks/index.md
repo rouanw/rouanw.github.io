@@ -6,10 +6,6 @@ share: false
 ---
 # Talks
 
-__Upcoming talks__    
-[Scrum User Group Johannesburg](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/) - 11 Nov 2015  
-{: .notice}
-
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
 
 ### Conferences
@@ -47,6 +43,9 @@ __TDD and Pair Programming demonstration__
 Tech4Africa 2012 (during “Agile Software Development” presentation and workshop, with Patrick Turley, Daniel Temme and Prasanna Pendse)
 
 ### User groups
+
+__DevOps Culture__  
+November 2015 Scrum User Group Johannesburg - [slides](http://www.slideshare.net/rouanw/devops-culture-55006498), [event details](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/)
 
 __Let's release it: An introduction to Continuous Delivery__  
 October 2014 Scrum User Group Johannesburg - [slides](https://www.slideshare.net/rouanw/lets-release-it-an-intro-to-continuous-delivery), [event details](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/197501852/)

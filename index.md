@@ -4,10 +4,6 @@ excerpt: "Rouan Wilsenach - Software Developer at ThoughtWorks"
 tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery]
 ---
 
-__Upcoming talks__  
-[Scrum User Group Johannesburg](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/) - 11 Nov 2015  
-{: .notice}
-
 ## Build software better
 
 How do you build software incrementally while maintaining good design? Is that cake?
