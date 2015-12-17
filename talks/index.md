@@ -4,6 +4,10 @@ excerpt: "Rouan Wilsenach - Software Developer at ThoughtWorks"
 tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery]
 share: false
 ---
+__Upcoming talks__  
+[Developer User Group Johannesburg](http://www.meetup.com/DeveloperUG/events/227180628/) - 9 Feb 2016  
+{: .notice}
+
 # Talks
 
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
