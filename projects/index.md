@@ -13,7 +13,7 @@ A few [personal](#personal) and [professional](#professional) projects I've work
 
 {% include _promo.html title="<img class=\"logo\" src=\"http://rouanw.github.io/blip/blip_logo.png\"/>" url="http://rouanw.github.io/blip" imageUrl="images/radar.png" description="Blip is an open source tool that helps you track and visualise the skills you are learning." %}
 
-{% include _promo.html title="Build Health Dashboard" url="https://github.com/rouanw/build-health-dashboard" imageUrl="images/build_health_screenshot.png" description="An information radiator that displays the status and health of your CI builds. It's built using Dashing and currently supports Travis, TeamCity Bamboo and Go." %}
+{% include _promo.html title="Build Window" url="https://github.com/rouanw/build-window" imageUrl="images/build_health_screenshot.png" description="An information radiator that displays the status and health of your CI builds. It's built using Dashing and currently supports Travis, Jenkins, TeamCity, Bamboo and Go." %}
 
 {% include _promo.html title="<img class=\"logo\" src=\"/images/writing-pod.png\"/>" url="http://www.writingpod.com" imageUrl="images/writingpod_screenshot.png" description="WritingPod is an online writing community that allows writers to share their writing and get feedback on their work." %}
 
