@@ -5,15 +5,14 @@ tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, 
 share: false
 ---
 
-{: .notice}
-__Upcoming talks__  
-[DevConf](http://www.devconf.co.za/) - 8 March 2016  
-
 # Talks
 
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
 
 ### Conferences
+
+__Surround yourself with data: how to create dashboards that help you uncover what's really going on__  
+DevConf 2016 - [slides](http://www.slideshare.net/rouanw/dashboards-using-data-to-find-out-whats-really-going-on), [event details](http://www.devconf.co.za/)
 
 __Techniques for stress-free software releases__  
 Scrum Gathering Johannesburg 2015 - [slides](http://www.slideshare.net/rouanw/techniques-for-stress-free-software-releases), [event details](http://sugsa.org.za/scrum-gathering-south-africa-2015/speakers/rouan-wilsenach-heroes-need-sleep-too-techniques-for-stress-free-software-releases/)
