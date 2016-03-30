@@ -28,8 +28,8 @@ kramdown:
 owner:
   name: Rouan Wilsenach
   avatar: rouan.png
-  bio: "Software developer at ThoughtWorks."
-  email: rmw@thoughtworks.com
+  bio: "Software developer"
+  email: #rmw@thoughtworks.com
   disqus-shortname:
   twitter: rouanw
   facebook: #username

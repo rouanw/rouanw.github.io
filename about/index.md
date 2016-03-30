@@ -7,7 +7,7 @@ share: false
 
 ## About me
 
-I'm a software developer at ThoughtWorks. I've spent the past few years working as a consultant, developing applications for clients in the financial services, health, media and education sectors.
+I'm a software developer. I've spent the past few years working as a consultant, developing applications for clients in the financial services, health, media and education sectors.
 
 ### Tech stuff
 
