@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "Rouan Wilsenach - Software Developer at ThoughtWorks"
+excerpt: "Rouan Wilsenach - Software Developer"
 tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery, projects]
 share: false
 ---

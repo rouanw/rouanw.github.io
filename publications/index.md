@@ -1,13 +1,15 @@
 ---
 layout: page
-excerpt: "Rouan Wilsenach - Software Developer at ThoughtWorks"
+excerpt: "Rouan Wilsenach - Software Developer"
 tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery]
 share: false
 ---
 
 ## Articles
 
-{% include _promo.html title="Killer dashboards: What to include, how to build them to track app and user activity" type="Article on" publication="TechBeacon" url="http://techbeacon.com/how-setup-dashboards-deliver-better-apps-monitor-users" imageUrl="images/dashboard.jpg" description="How many people are using your website right now? Which features are their favorites? Are they experiencing errors or getting stuck? How are your servers performing? Is your code easy to work with? Are you making money? Create the right dashboards and you'll have the answers to these questions all around you, all the time." %}
+{% include _promo.html title="3 techniques for stress-free release management" type="Article on" publication="TechBeacon" url="http://techbeacon.com/3-devops-techniques-stress-free-release-management" imageUrl="images/stress.jpg" description="Thanks to an explosion of DevOps tools and techniques, releasing new features no longer needs to be a stressful, all-weekend slumber party. What follows are a few release management techniques that you can use to take the stress out of releases and get a good night’s sleep." %}
+
+{% include _promo.html title="Killer dashboards" type="Article on" publication="TechBeacon" url="http://techbeacon.com/how-setup-dashboards-deliver-better-apps-monitor-users" imageUrl="images/dashboard.jpg" description="How many people are using your website right now? Which features are their favorites? Are they experiencing errors or getting stuck? How are your servers performing? Is your code easy to work with? Are you making money? Create the right dashboards and you'll have the answers to these questions all around you, all the time." %}
 
 {% include _promo.html title="11 ideas to crank your deployment pipeline to 11" type="Article on" publication="TechBeacon" url="http://techbeacon.com/11-ideas-crank-your-deployment-pipeline-11" imageUrl="images/11.png" description="In the parody rock movie This Is Spinal Tap, the band's guitarist gets himself a brand new amp that's so loud, he explains, that its volume knob goes up to 11 instead of just 10. Once you've set up your first deployment pipeline, you may be looking for ideas to make your deployments easier and more reliable. Here are 11 ideas you can use to give your pipeline that extra push." %}
 
