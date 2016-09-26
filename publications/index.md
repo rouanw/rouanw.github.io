@@ -7,6 +7,8 @@ share: false
 
 ## Articles
 
+{% include _promo.html title="Don't be a DevOps hero" type="Article on" publication="TechBeacon" url="http://techbeacon.com/dont-be-devops-hero-youre-just-creating-devops-silo" imageUrl="images/don_t_be_a_devops_hero_silos.jpg" description="Many organizations stumble on their DevOps journeys because, even as they focus on breaking down silos, the teams formed to champion DevOps end up becoming silos themselves. Here's a look at how these DevOps heroes are created, why it’s problematic, and a few techniques to help you avoid this trap." %}
+
 {% include _promo.html title="3 techniques for stress-free release management" type="Article on" publication="TechBeacon" url="http://techbeacon.com/3-devops-techniques-stress-free-release-management" imageUrl="images/stress.jpg" description="Thanks to an explosion of DevOps tools and techniques, releasing new features no longer needs to be a stressful, all-weekend slumber party. What follows are a few release management techniques that you can use to take the stress out of releases and get a good night’s sleep." %}
 
 {% include _promo.html title="Killer dashboards" type="Article on" publication="TechBeacon" url="http://techbeacon.com/how-setup-dashboards-deliver-better-apps-monitor-users" imageUrl="images/dashboard.jpg" description="How many people are using your website right now? Which features are their favorites? Are they experiencing errors or getting stuck? How are your servers performing? Is your code easy to work with? Are you making money? Create the right dashboards and you'll have the answers to these questions all around you, all the time." %}
