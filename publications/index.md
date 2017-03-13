@@ -7,6 +7,8 @@ share: false
 
 ## Articles
 
+{% include _promo.html title="Are your tests slowing you down?" type="Article on" publication="TechBeacon" url="https://techbeacon.com/are-your-app-tests-slowing-you-down" imageUrl="images/snail.png" description="Application tests are useful because they help you go faster. They help you to make changes to your code without fear of breaking existing functionality. That said, I’ve seen teams get slowed down by their approach to testing. Here's how you can avoid that fate." %}
+
 {% include _promo.html title="Don't be a DevOps hero" type="Article on" publication="TechBeacon" url="http://techbeacon.com/dont-be-devops-hero-youre-just-creating-devops-silo" imageUrl="images/don_t_be_a_devops_hero_silos.jpg" description="Many organizations stumble on their DevOps journeys because, even as they focus on breaking down silos, the teams formed to champion DevOps end up becoming silos themselves. Here's a look at how these DevOps heroes are created, why it’s problematic, and a few techniques to help you avoid this trap." %}
 
 {% include _promo.html title="3 techniques for stress-free release management" type="Article on" publication="TechBeacon" url="http://techbeacon.com/3-devops-techniques-stress-free-release-management" imageUrl="images/stress.jpg" description="Thanks to an explosion of DevOps tools and techniques, releasing new features no longer needs to be a stressful, all-weekend slumber party. What follows are a few release management techniques that you can use to take the stress out of releases and get a good night’s sleep." %}
