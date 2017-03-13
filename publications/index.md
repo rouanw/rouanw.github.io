@@ -4,6 +4,7 @@ excerpt: "Rouan Wilsenach - Software Developer"
 tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery]
 share: false
 ---
+<h2>Articles</h2>
 
 {% include _promo.html title="Are your tests slowing you down?" type="Article on" publication="TechBeacon" url="https://techbeacon.com/are-your-app-tests-slowing-you-down" imageUrl="images/snail.png" description="Application tests are useful because they help you go faster. They help you to make changes to your code without fear of breaking existing functionality. That said, I’ve seen teams get slowed down by their approach to testing. Here's how you can avoid that fate." %}
 

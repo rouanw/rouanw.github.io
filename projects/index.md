@@ -5,7 +5,7 @@ tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, 
 share: false
 ---
 
-## Projects
+<h2>Projects</h2>
 
 A few [personal](#personal) and [professional](#professional) projects I've worked on.
 

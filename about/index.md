@@ -5,7 +5,7 @@ tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, 
 share: false
 ---
 
-## About me
+<h2>About me</h2>
 
 I'm a software developer. I've spent the past few years working as a consultant, developing applications for clients in the financial services, health, media and education sectors.
 
