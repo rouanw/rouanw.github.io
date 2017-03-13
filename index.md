@@ -12,9 +12,9 @@ How do you build software incrementally while maintaining good design? Is that c
 
 - - -
 
-## DevOps is a culture
+## DevOps is about culture
 
-The DevOps movement is about much more than tools. The 2015 State of DevOps report confirmed that organisations that excel at creating software are the ones with a more diverse workforce and a culture of sustainable pace.
+The DevOps movement is about much more than tools. Organisations that excel at creating software are the ones with a more diverse workforce and a culture of sustainable pace.
 
 {% include _promo.html title="DevOps culture" type="Bliki post on" publication="martinfowler.com" url="http://martinfowler.com/bliki/DevOpsCulture.html" imageUrl="images/devops_culture.png" description="DevOps is a movement to break down traditional silos between developers, operations and other delivery groups. Although many tools are useful, it is primarily a cultural change." %}
 
@@ -26,6 +26,8 @@ How quickly can you respond to change? Do you care about feedback? Is your team 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yBAhKK3_1j8" frameborder="0" allowfullscreen></iframe>
 <br/>
+
+If you don't feel like watching a video, you can read [the article](http://www.thoughtworks.com/insights/blog/four-attributes-agile-business).
 
 - - -
 
