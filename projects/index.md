@@ -11,6 +11,8 @@ A few [personal](#personal) and [professional](#professional) projects I've work
 
 ### <a name="personal"></a>Personal
 
+{% include _promo.html title="🎒 Brewpack" url="https://rouanw.github.io/brewpack" imageUrl="images/brewpack.png" description="Brewpack is an open source tool that installs your favourite tools and apps on your new Mac with a single command. It uses Homebrew under the hood and lets you save all your formulae to a `packages.yml` file which can later be used to restore all your apps to a new or formatted Mac. You can also use it to host the dependencies required to join your team, so that a new team member can automatically install the things they need to be productive." %}
+
 {% include _promo.html title="<img class=\"logo\" src=\"http://rouanw.github.io/blip/blip_logo.png\"/>" url="http://rouanw.github.io/blip" imageUrl="images/radar.png" description="Blip is an open source tool that helps you track and visualise the skills you are learning." %}
 
 {% include _promo.html title="Build Window" url="https://github.com/rouanw/build-window" imageUrl="images/build_health_screenshot.png" description="An information radiator that displays the status and health of your CI builds. It's built using Dashing and currently supports Travis, Jenkins, TeamCity, Bamboo and Go." %}
