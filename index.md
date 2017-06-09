@@ -4,6 +4,10 @@ excerpt: "Rouan Wilsenach - Software Developer"
 tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery]
 ---
 
+{: .notice}
+__Upcoming talks__  
+[JavaScript in SA conference](http://jsinsa.com/) - 15 July 2017  
+
 ## Build software better
 
 How do you build software incrementally while maintaining good design? Is that cake?

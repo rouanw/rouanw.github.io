@@ -7,6 +7,10 @@ share: false
 
 <h2>Talks</h2>
 
+{: .notice}
+__Upcoming talks__  
+[JavaScript in SA conference](http://jsinsa.com/) - 15 July 2017  
+
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
 
 ### Conferences
