@@ -46,7 +46,7 @@ JavaScript in South Africa 2013 (with Daniel Temme) - [code](https://github.com/
 __TDD and Pair Programming demonstration__  
 Tech4Africa 2012 (during “Agile Software Development” presentation and workshop, with Patrick Turley, Daniel Temme and Prasanna Pendse)
 
-### User groups
+### User groups and community events
 
 __Contributing to open source is easier than you think__  
 May 2017 Developer User Group Johannesburg - [slides](https://www.slideshare.net/rouanw/contributing-to-open-source-is-easier-than-you-think), [event details](https://www.meetup.com/DeveloperUG/events/233442021/)  
@@ -55,28 +55,26 @@ __DevOps Culture__
 November 2015 Scrum User Group Johannesburg - [slides](http://www.slideshare.net/rouanw/devops-culture-55006498), [event details](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/)  
 February 2016 Developer User Group Johannesburg - [slides](http://www.slideshare.net/rouanw/devops-culture-55006498), [event details](http://www.meetup.com/DeveloperUG/events/227180628/)  
 
+__Lean Enterprise__  
+August 2015 ThoughtWorks Community Event (with Barry O'Reilly) - [event details](http://info.thoughtworks.com/lean-enterprise-community-registration-page-sa.html)
+
 __Let's release it: An introduction to Continuous Delivery__  
 October 2014 Scrum User Group Johannesburg - [slides](https://www.slideshare.net/rouanw/lets-release-it-an-intro-to-continuous-delivery), [event details](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/197501852/)
+
+__Microservices__  
+August 2014 ThoughtWorks Tech Radar - [slides](http://www.slideshare.net/rouanw/microservices-rouan-wilsenach), [event details](http://info.thoughtworks.com/techradar-event-2aug2014-johannesburg-registration.html)
 
 __Infrastructure as code, with Puppet and Vagrant__  
 April 2014 Developer User Group - [slides](http://www.slideshare.net/rouanw/infrastructure-as-code-51794189), [code](https://github.com/rouanw/infrastructure-as-code-dug), [event details](http://www.meetup.com/DeveloperUG/events/146654382/)
 
+__The JavaScript juggernaut rolls on__  
+March 2014 ThoughtWorks Tech Radar - [slides](http://www.slideshare.net/rouanw/thoughtworks-tech-radar-jan-2014), [event details](http://info.thoughtworks.com/techradar-event-johannesburg-4march2014-registration.html)
+
 __Developer Yoga: How being flexible helps__  
 LevelUp Jozi - [slides](https://github.com/rouanw/developer-yoga)
 
-### ThoughtWorks
-
-__Lean Enterprise__  
-ThoughtWorks Community Event (with Barry O'Reilly) - [event details](http://info.thoughtworks.com/lean-enterprise-community-registration-page-sa.html)
-
-__Microservices__  
-August 2014 Tech Radar - [slides](http://www.slideshare.net/rouanw/microservices-rouan-wilsenach), [event details](http://info.thoughtworks.com/techradar-event-2aug2014-johannesburg-registration.html)
-
-__The JavaScript juggernaut rolls on__  
-March 2014 Tech Radar - [slides](http://www.slideshare.net/rouanw/thoughtworks-tech-radar-jan-2014), [event details](http://info.thoughtworks.com/techradar-event-johannesburg-4march2014-registration.html)
-
 __Infrastructure as code__  
-July 2013 Tech Radar (with Rachel Laycock) - [slides](http://www.slideshare.net/rouanw/may-2013-thoughtworks-tech-radar), [event details](http://info.thoughtworks.com/tech_radar_event_18_july_2013_registration_page.html), [press](http://www.htxt.co.za/2013/07/19/thoughtworks-wants-to-burn-your-servers/)
+July 2013 ThoughtWorks Tech Radar (with Rachel Laycock) - [slides](http://www.slideshare.net/rouanw/may-2013-thoughtworks-tech-radar), [event details](http://info.thoughtworks.com/tech_radar_event_18_july_2013_registration_page.html), [press](http://www.htxt.co.za/2013/07/19/thoughtworks-wants-to-burn-your-servers/)
 
 # Slides
 
