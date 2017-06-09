@@ -48,8 +48,11 @@ Tech4Africa 2012 (during “Agile Software Development” presentation and works
 
 ### User groups
 
+__Contributing to open source is easier than you think__  
+May 2017 Developer User Group Johannesburg - [slides](https://www.slideshare.net/rouanw/contributing-to-open-source-is-easier-than-you-think), [event details](https://www.meetup.com/DeveloperUG/events/233442021/)  
+
 __DevOps Culture__  
-November 2015 Scrum User Group Johannesburg - [slides](http://www.slideshare.net/rouanw/devops-culture-55006498), [event details](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/)
+November 2015 Scrum User Group Johannesburg - [slides](http://www.slideshare.net/rouanw/devops-culture-55006498), [event details](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/)  
 February 2016 Developer User Group Johannesburg - [slides](http://www.slideshare.net/rouanw/devops-culture-55006498), [event details](http://www.meetup.com/DeveloperUG/events/227180628/)  
 
 __Let's release it: An introduction to Continuous Delivery__  
