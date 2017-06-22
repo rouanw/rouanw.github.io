@@ -38,6 +38,6 @@ If you don't feel like watching a video, you can read [the article](http://www.t
 
 ## No more guessing
 
-Stop worrying about what might happen. Rather equip yourself to find out quickly when something goes wrong and set yourself up to ship fixes quickly.
+Stop worrying about what might happen. Rather equip yourself to find out  when something goes wrong and set yourself up to ship fixes fast.
 
 {% include _promo.html title="QA in Production" type="Article on" publication="martinfowler.com" url="https://martinfowler.com/articles/qa-in-production.html" imageUrl="images/qa-in-prod.png" description="Things always go wrong in production, but this doesn’t have to be a bad thing. It’s an opportunity to learn about your system and the real world with which it interacts. With the right production monitoring tools and a good Continuous Delivery pipeline, you can build a set of feedback mechanisms that help you find out about issues as they happen and ship fixes quickly. Adopting production QA practices can help you gain a richer understanding of the real issues your system faces and learn new ways to improve its quality." %}
