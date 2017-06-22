@@ -7,6 +7,7 @@ tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, 
 {: .notice}
 __Upcoming talks__  
 [JavaScript in SA conference](http://jsinsa.com/) - 15 July 2017  
+[Agile Africa](http://2017.agileafricaconf.com/) - 21 August 2017  
 
 ## Build software better
 
