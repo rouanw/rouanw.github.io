@@ -11,6 +11,8 @@ A few [personal](#personal) and [professional](#professional) projects I've work
 
 ### <a name="personal"></a>Personal
 
+{% include _promo.html title="Flamongo" url="https://github.com/rouanw/flamongo" imageUrl="images/flamongo.png" description="Flamongo is an npm library that helps you find the most efficient indexes for your MongoDB collections. It pumps a collection full of stub data, creates the indexes you specify and runs your queries. It then prints out useful information and statistics, which will help you decide which indexes are best for your needs." %}
+
 {% include _promo.html title="🎒 Brewpack" url="https://rouanw.github.io/brewpack" imageUrl="images/brewpack.png" description="Brewpack is an open source tool that installs your favourite tools and apps on your new Mac with a single command. It uses Homebrew under the hood and lets you save all your formulae to a `packages.yml` file which can later be used to restore all your apps to a new or formatted Mac. You can also use it to host the dependencies required to join your team, so that a new team member can automatically install the things they need to be productive." %}
 
 {% include _promo.html title="<img class=\"logo\" src=\"https://rouanw.github.io/blip/blip_logo.png\"/>" url="https://rouanw.github.io/blip" imageUrl="images/radar.png" description="Blip is an open source tool that helps you track and visualise the skills you are learning." %}
