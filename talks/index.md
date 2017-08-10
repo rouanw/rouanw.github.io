@@ -9,12 +9,17 @@ share: false
 
 {: .notice}
 __Upcoming talks__  
-[JavaScript in SA conference](http://jsinsa.com/) - 15 July 2017  
 [Agile Africa](http://2017.agileafricaconf.com/) - 21 August 2017  
 
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
 
 ### Conferences
+
+__Organised chaos: real-world JavaScript microservices__  
+JavaScript in South Africa 2017 - [video](https://www.youtube.com/watch?v=gQYFlL53qeU), [slides](https://www.slideshare.net/rouanw/organised-chaos-realworld-javascript-microservices), [event details](http://jsinsa.com/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gQYFlL53qeU?ecver=2" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 __Surround yourself with data: how to create dashboards that help you uncover what's really going on__  
 DevConf 2016 - [slides](http://www.slideshare.net/rouanw/dashboards-using-data-to-find-out-whats-really-going-on), [event details](http://www.devconf.co.za/)
