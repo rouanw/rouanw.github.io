@@ -7,13 +7,12 @@ share: false
 
 <h2>Talks</h2>
 
-{: .notice}
-__Upcoming talks__  
-[Agile Africa](http://2017.agileafricaconf.com/) - 21 August 2017  
-
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
 
 ### Conferences
+
+__QA in production: the tests we never wrote and the production monitoring we use instead__  
+Agile Africa 2017 - [slides](https://www.slideshare.net/rouanw/qa-in-production-the-tests-we-never-wrote-and-the-production-monitoring-we-use-instead), [event details](http://2017.agileafricaconf.com/)
 
 __Organised chaos: real-world JavaScript microservices__  
 JavaScript in South Africa 2017 - [video](https://www.youtube.com/watch?v=gQYFlL53qeU), [slides](https://www.slideshare.net/rouanw/organised-chaos-realworld-javascript-microservices), [event details](http://jsinsa.com/)

@@ -4,15 +4,13 @@ excerpt: "Rouan Wilsenach - Software Developer"
 tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery]
 ---
 
-{: .notice}
-__Upcoming talks__  
-[Agile Africa](http://2017.agileafricaconf.com/) - 21 August 2017  
-
 ## Microservices
 
 An introduction to organised chaos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gQYFlL53qeU?ecver=2" frameborder="0" allowfullscreen></iframe>
+
+- - -
 
 ## Build software better
 
