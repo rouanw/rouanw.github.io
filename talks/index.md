@@ -15,6 +15,7 @@ __The curious case of the production incident__
 DevConf 2018 - [video](https://youtu.be/b_UG6sGZvck), [slides](https://www.slideshare.net/rouanw/the-curious-case-of-the-production-incident), [event details](https://www.devconf.co.za/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b_UG6sGZvck" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br/>
 
 __QA in production: the tests we never wrote and the production monitoring we use instead__  
 Agile Africa 2017 - [video](https://www.youtube.com/watch?v=ef7y8ec2Yg8), [slides](https://www.slideshare.net/rouanw/qa-in-production-the-tests-we-never-wrote-and-the-production-monitoring-we-use-instead), [event details](http://2017.agileafricaconf.com/)
