@@ -7,22 +7,6 @@ share: false
 
 <h2>Projects</h2>
 
-A few [personal](#personal) and [professional](#professional) projects I've worked on.
-
-### <a name="personal"></a>Personal
-
-{% include _promo.html title="Flamongo" url="https://github.com/rouanw/flamongo" imageUrl="images/flamongo.png" description="Flamongo is an npm library that helps you find the most efficient indexes for your MongoDB collections. It pumps a collection full of stub data, creates the indexes you specify and runs your queries. It then prints out useful information and statistics, which will help you decide which indexes are best for your needs." %}
-
-{% include _promo.html title="🎒 Brewpack" url="https://rouanw.github.io/brewpack" imageUrl="images/brewpack.png" description="Brewpack is an open source tool that installs your favourite tools and apps on your new Mac with a single command. It uses Homebrew under the hood and lets you save all your formulae to a `packages.yml` file which can later be used to restore all your apps to a new or formatted Mac. You can also use it to host the dependencies required to join your team, so that a new team member can automatically install the things they need to be productive." %}
-
-{% include _promo.html title="<img class=\"logo\" src=\"https://rouanw.github.io/blip/blip_logo.png\"/>" url="https://rouanw.github.io/blip" imageUrl="images/radar.png" description="Blip is an open source tool that helps you track and visualise the skills you are learning." %}
-
-{% include _promo.html title="Build Window" url="https://github.com/rouanw/build-window" imageUrl="images/build_health_screenshot.png" description="An information radiator that displays the status and health of your CI builds. It's built using Dashing and currently supports Travis, Jenkins, TeamCity, Bamboo and Go." %}
-
-{% include _promo.html title="<img class=\"logo\" src=\"/images/writing-pod.png\"/>" url="http://www.writingpod.com" imageUrl="images/writingpod_screenshot.png" description="WritingPod is an online writing community that allows writers to share their writing and get feedback on their work." %}
-
-### <a name="professional"></a>Professional
-
 Here are a few projects I've worked on professionally that I'm allowed to share with you.
 
 {% include _promo.html title="Tes Job Applications" url="https://www.tesglobal.com/content/tes-wins-prestigious-industry-award-best-online-candidate-experience" imageUrl="images/onrec.png" description="Tes has won a prestigious recruitment industry award for the ‘Best Online Candidate Experience’ for a jobsboard. The OnRec Online Recruitment Awards celebrate the success, growth, innovation, talent and achievements within the online recruitment industry. Tes was recognised by the judges for its work to reengineer and dramatically improve the traditional candidate experience for teachers." %}
