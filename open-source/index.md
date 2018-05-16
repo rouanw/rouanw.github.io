@@ -17,6 +17,10 @@ Here are a few open source projects to which [I've contributed](#contributions) 
 
 {% include _promo.html title="nsp-except" url="https://github.com/rouanw/nsp-except" imageUrl="images/nsp-except.png" description="A library to help you only exclude the security vulnerabilities you really mean to, by storing the full path to the advisory with the exception." %}
 
+{% include _promo.html title="randoc" url="https://github.com/rouanw/randoc" imageUrl="images/randoc.png" description="Generates random documents based on a simple schema using Chance.js functions. Handy for creating test / stub data." %}
+
+{% include _promo.html title="index-mixer" url="https://github.com/rouanw/index-mixer" imageUrl="images/index-mixer.png" description="Given a MongoDB query, index mixer will return an array of all possible indexes that could potentially serve that query." %}
+
 {% include _promo.html title="🎒 Brewpack" url="https://rouanw.github.io/brewpack" imageUrl="images/brewpack.png" description="Brewpack is an open source tool that installs your favourite tools and apps on your new Mac with a single command. It uses Homebrew under the hood and lets you save all your formulae to a `packages.yml` file which can later be used to restore all your apps to a new or formatted Mac. You can also use it to host the dependencies required to join your team, so that a new team member can automatically install the things they need to be productive." %}
 
 {% include _promo.html title="<img class=\"logo\" src=\"https://rouanw.github.io/blip/blip_logo.png\"/>" url="https://rouanw.github.io/blip" imageUrl="images/radar.png" description="Blip is an open source tool that helps you track and visualise the skills you are learning." %}
