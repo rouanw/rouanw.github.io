@@ -63,6 +63,9 @@ Tech4Africa 2012 (during “Agile Software Development” presentation and works
 
 ### User groups and community events
 
+__Useful bits: a medley of tips for effective full-stack JavaScript development__  
+November 2017 Jozi.JS Meetup - [slides](https://cdn.rawgit.com/rouanw/jozijs2017/d26a2074/index.html), [event details](https://www.meetup.com/Jozi-JS/events/243167240/)  
+
 __Contributing to open source is easier than you think__  
 May 2017 Developer User Group Johannesburg - [slides](https://www.slideshare.net/rouanw/contributing-to-open-source-is-easier-than-you-think), [event details](https://www.meetup.com/DeveloperUG/events/233442021/)  
 
