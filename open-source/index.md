@@ -17,6 +17,8 @@ Here are a few open source projects to which [I've contributed](#contributions) 
 
 {% include _promo.html title="nsp-except" url="https://www.npmjs.com/package/nsp-except" imageUrl="images/nsp-except.png" description="A library to help you only exclude the security vulnerabilities you really mean to, by storing the full path to the advisory with the exception." %}
 
+{% include _promo.html title="Strip .only" url="https://marketplace.visualstudio.com/items?itemName=rouanw.strip-only" imageUrl="images/strip_only.png" description="Ready to commit your code? strip-only is a Visual Studio Code extension that removes exclusive tests by stripping .only from your current file. Run it and it will change all instances of it.only and describe.only to it and describe respectively." %}
+
 {% include _promo.html title="randoc" url="https://www.npmjs.com/package/randoc" imageUrl="images/randoc.png" description="Generates random documents based on a simple schema using Chance.js functions. Handy for creating test / stub data." %}
 
 {% include _promo.html title="index-mixer" url="https://www.npmjs.com/package/index-mixer" imageUrl="images/index-mixer.png" description="Given a MongoDB query, index mixer will return an array of all possible indexes that could potentially serve that query." %}
