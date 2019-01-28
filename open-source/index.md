@@ -1,7 +1,7 @@
 ---
 layout: page
 excerpt: "Rouan Wilsenach - Software Developer"
-tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery, projects]
+tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, open source, continuous, delivery, projects]
 share: false
 ---
 
@@ -17,8 +17,6 @@ Here are a few open source projects to which [I've contributed](#contributions) 
 
 {% include _promo.html title="Flamongo" url="https://www.npmjs.com/package/flamongo" imageUrl="images/flamongo.png" description="Flamongo is an npm library that helps you find the most efficient indexes for your MongoDB collections. It pumps a collection full of stub data, creates the indexes you specify and runs your queries. It then prints out useful information and statistics, which will help you decide which indexes are best for your needs." %}
 
-{% include _promo.html title="nsp-except" url="https://www.npmjs.com/package/nsp-except" imageUrl="images/nsp-except.png" description="A library to help you only exclude the security vulnerabilities you really mean to, by storing the full path to the advisory with the exception." %}
-
 {% include _promo.html title="Strip .only" url="https://marketplace.visualstudio.com/items?itemName=rouanw.strip-only" imageUrl="images/strip_only.png" description="Ready to commit your code? strip-only is a Visual Studio Code extension that removes exclusive tests by stripping .only from your current file. Run it and it will change all instances of it.only and describe.only to it and describe respectively." %}
 
 {% include _promo.html title="randoc" url="https://www.npmjs.com/package/randoc" imageUrl="images/randoc.png" description="Generates random documents based on a simple schema using Chance.js functions. Handy for creating test / stub data." %}
@@ -30,6 +28,12 @@ Here are a few open source projects to which [I've contributed](#contributions) 
 {% include _promo.html title="<img class=\"logo\" src=\"https://rouanw.github.io/blip/blip_logo.png\"/>" url="https://rouanw.github.io/blip" imageUrl="images/radar.png" description="Blip is an open source tool that helps you track and visualise the skills you are learning." %}
 
 {% include _promo.html title="Build Window" url="https://github.com/rouanw/build-window" imageUrl="images/build_health_screenshot.png" description="An information radiator that displays the status and health of your CI builds. It's built using Dashing and currently supports Travis, Jenkins, TeamCity, Bamboo and Go." %}
+
+#### More
+
+- [mongo-csv](https://www.npmjs.com/package/mongo-csv)
+- [knoxy](https://www.npmjs.com/package/knoxy)
+- [nsp-except](https://www.npmjs.com/package/nsp-except)
 
 ### <a name="contributions"></a>Contributions
 
