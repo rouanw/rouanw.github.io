@@ -22,6 +22,10 @@ __April Wensel on coding with compassion__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JFSJYa3f0TM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
+__Reshma Saujani on teaching girls to be brave__
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/reshma_saujani_teach_girls_bravery_not_perfection" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<br />
+
 __Brittany Storoz on the etymology of programming__  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2KTK2qD4-gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
