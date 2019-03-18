@@ -47,6 +47,7 @@ Here are a few open source projects to which [I've contributed](#contributions) 
 - [conflab](https://github.com/tes/conflab/commits?author=rouanw)
 - [rascal](https://github.com/guidesmiths/rascal/commits?author=rouanw)
 - [chai-string](https://github.com/onechiporenko/chai-string/commits?author=rouanw)
+- [npm-audit-resolver](https://github.com/naugtur/npm-audit-resolver/commits?author=rouanw)
 - [vscode-npm-scripts](https://github.com/Microsoft/vscode-npm-scripts/commits?author=rouanw)
 - [vscode-open-in-github](https://github.com/d4rkr00t/vscode-open-in-github/commits?author=rouanw)
 - [obj-flatten](https://github.com/IonicaBizau/obj-flatten/commits?author=rouanw)
@@ -58,6 +59,7 @@ Here are a few open source projects to which [I've contributed](#contributions) 
 - [bundle-version](https://github.com/tes/bundle-version/commits?author=rouanw)
 - [jasmine-promise-matchers](https://github.com/bvaughn/jasmine-promise-matchers/commits?author=rouanw)
 - [Bookworm](https://github.com/ThoughtWorksZA/bookworm/commits?author=rouanw)
+- [birdbrain](https://github.com/ThoughtWorksZA/birdbrain/commits?author=rouanw)
 
 #### Docs
 
