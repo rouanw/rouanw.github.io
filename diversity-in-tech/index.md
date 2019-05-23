@@ -12,7 +12,7 @@ Here are some [Videos](#videos), [Slides](#slides) and [Articles](#articles) tha
 
 __Alex Qin on why shaving her head made her a better programmer__ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jJFuAce9mZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-An update version of the talk was given at [DockerCon 2018](https://dockercon2018.hubs.vidyard.com/watch/DCoE6FFPiGNCYMWnd7orXU).
+An updated version of the talk was given at [DockerCon 2018](https://dockercon2018.hubs.vidyard.com/watch/DCoE6FFPiGNCYMWnd7orXU).
 <br />
 
 __Anjuan Simmons on lending privilege__ 
