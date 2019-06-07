@@ -4,6 +4,10 @@ excerpt: "Rouan Wilsenach - Software Developer"
 tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery]
 ---
 
+__Upcoming talks__    
+[Lean Agile Scotland 2019](https://2019.leanagile.scot/) - 9 Oct 2019  
+{: .notice}
+
 ## Microservices
 
 An introduction to organised chaos.

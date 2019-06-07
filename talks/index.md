@@ -7,6 +7,10 @@ share: false
 
 <h2>Talks</h2>
 
+__Upcoming talks__    
+[Lean Agile Scotland 2019](https://2019.leanagile.scot/) - 9 Oct 2019  
+{: .notice}
+
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
 
 ### Conferences
