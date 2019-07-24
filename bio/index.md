@@ -7,7 +7,7 @@ share: false
 
 <h2>Bio</h2>
 
-Rouan Wilsenach is a software developer. He has built applications in a variety of technology stacks for companies in the financial services, education, health and media sectors. He’s worked as a consultant and coach, helping teams learn good engineering practices and helping businesses transform the way they build software. He now works remotely for [Tes](http://engineering.tes.com/), where he builds full-stack JavaScript microservices to help teachers and schools.
+Rouan Wilsenach is an experienced software engineer. He leads an outstanding remote-first team of engineers at [Tes](http://engineering.tes.com/), building full-stack JavaScript microservices to help teachers and schools. He has built applications in a variety of technology stacks for companies in the financial services, education, health and media sectors. He’s worked (mainly at [ThoughtWorks](https://www.thoughtworks.com/)) as a consultant and coach, helping teams learn good engineering practices and helping businesses transform the way they build software. He's a regular writer and conference speaker and an active open source contributor and maintainer.
 
 ### Image
 
