@@ -13,26 +13,23 @@ Here are a few open source projects to which [I've contributed](#contributions) 
 
 {% include _promo.html title="npm-audit-helper" url="https://www.npmjs.com/package/npm-audit-helper" imageUrl="images/npm-audit-helper.png" description="It can be really overwhelming to stare at an npm audit report with 50+ vulnerabilities. Where do you start? npm-audit-helper helps answer that question, by providing smaller sets of output and a few hints." %}
 
-{% include _promo.html title="fail-on-react-warn" url="https://www.npmjs.com/package/fail-on-react-warn" imageUrl="images/fail-on-react-warn.png" description="Tired of React warnings slipping into your code base unnoticed? Include fail-on-react-warn in your test setup to fail the build when you have any React warnings during execution." %}
-
 {% include _promo.html title="Flamongo" url="https://www.npmjs.com/package/flamongo" imageUrl="images/flamongo.png" description="Flamongo is an npm library that helps you find the most efficient indexes for your MongoDB collections. It pumps a collection full of stub data, creates the indexes you specify and runs your queries. It then prints out useful information and statistics, which will help you decide which indexes are best for your needs." %}
 
+{% include _promo.html title="Build Window" url="https://github.com/rouanw/build-window" imageUrl="images/build_health_screenshot.png" description="An information radiator that displays the status and health of your CI builds. It's built using Smashing and currently supports Travis, Jenkins, TeamCity, Bamboo and Go." %}
+
 {% include _promo.html title="Strip .only" url="https://marketplace.visualstudio.com/items?itemName=rouanw.strip-only" imageUrl="images/strip_only.png" description="Ready to commit your code? strip-only is a Visual Studio Code extension that removes exclusive tests by stripping .only from your current file. Run it and it will change all instances of it.only and describe.only to it and describe respectively." %}
-
-{% include _promo.html title="randoc" url="https://www.npmjs.com/package/randoc" imageUrl="images/randoc.png" description="Generates random documents based on a simple schema using Chance.js functions. Handy for creating test / stub data." %}
-
-{% include _promo.html title="index-mixer" url="https://www.npmjs.com/package/index-mixer" imageUrl="images/index-mixer.png" description="Given a MongoDB query, index mixer will return an array of all possible indexes that could potentially serve that query." %}
 
 {% include _promo.html title="🎒 Brewpack" url="https://rouanw.github.io/brewpack" imageUrl="images/brewpack.png" description="Brewpack is an open source tool that installs your favourite tools and apps on your new Mac with a single command. It uses Homebrew under the hood and lets you save all your formulae to a `packages.yml` file which can later be used to restore all your apps to a new or formatted Mac. You can also use it to host the dependencies required to join your team, so that a new team member can automatically install the things they need to be productive." %}
 
 {% include _promo.html title="<img class=\"logo\" src=\"https://rouanw.github.io/blip/blip_logo.png\"/>" url="https://rouanw.github.io/blip" imageUrl="images/radar.png" description="Blip is an open source tool that helps you track and visualise the skills you are learning." %}
 
-{% include _promo.html title="Build Window" url="https://github.com/rouanw/build-window" imageUrl="images/build_health_screenshot.png" description="An information radiator that displays the status and health of your CI builds. It's built using Dashing and currently supports Travis, Jenkins, TeamCity, Bamboo and Go." %}
-
 #### More
 
 - [mongo-csv](https://www.npmjs.com/package/mongo-csv)
+- [fail-tests-on-text](https://www.npmjs.com/package/fail-tests-on-text)
 - [knoxy](https://www.npmjs.com/package/knoxy)
+- [randoc](https://www.npmjs.com/package/randoc)
+- [index-mixer](https://www.npmjs.com/package/index-mixer)
 - [nsp-except](https://www.npmjs.com/package/nsp-except)
 
 ### <a name="contributions"></a>Contributions
