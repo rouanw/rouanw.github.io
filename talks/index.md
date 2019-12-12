@@ -14,6 +14,10 @@ Here is a list of talks I've presently recently. Please get in touch if you'd li
 __Fail better with QA in Production__  
 Lean Agile Scotland 2019, [video](https://vimeo.com/showcase/6542214/video/373227610), [slides](https://www.slideshare.net/rouanw/fail-better-with-qa-in-production), [event details](https://2019.leanagile.scot/)
 
+<iframe src="https://player.vimeo.com/video/373227610" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<br/>
+
 __The curious case of the production incident__  
 DevConf 2018 - [video](https://youtu.be/b_UG6sGZvck), [slides](https://www.slideshare.net/rouanw/the-curious-case-of-the-production-incident), [event details](https://www.devconf.co.za/)
 
