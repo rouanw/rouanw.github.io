@@ -9,6 +9,7 @@ tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, 
 Stop worrying about what might happen. Rather equip yourself to find out  when something goes wrong and set yourself up to ship fixes fast.
 
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/373227610' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+__Fail better with QA in Production__ (Lean Agile Scotland 2019)
 
 {% include _promo.html title="QA in Production" type="Article on" publication="martinfowler.com" url="https://martinfowler.com/articles/qa-in-production.html" imageUrl="images/qa-in-prod.png" description="Things always go wrong in production, but this doesn’t have to be a bad thing. It’s an opportunity to learn about your system and the real world with which it interacts. With the right production monitoring tools and a good Continuous Delivery pipeline, you can build a set of feedback mechanisms that help you find out about issues as they happen and ship fixes quickly. Adopting production QA practices can help you gain a richer understanding of the real issues your system faces and learn new ways to improve its quality." %}
 

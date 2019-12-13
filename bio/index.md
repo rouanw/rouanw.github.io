@@ -11,4 +11,6 @@ Rouan Wilsenach is an experienced software engineer. He leads an outstanding rem
 
 ### Image
 
-<img src="/images/rouan.png"/>
+<img src="/images/rouan_talk.jpg"/>
+
+Photo credit: [Nick Hodgson](https://www.instagram.com/nicholashodgson/)
