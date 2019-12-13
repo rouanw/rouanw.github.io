@@ -43,7 +43,4 @@ The DevOps movement is about much more than tools. Organisations that excel at c
 
 How quickly can you respond to change? Do you care about feedback? Is your team supported and responsive? Is your code an asset? Do you know which way to go?
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/yBAhKK3_1j8' frameborder='0' allowfullscreen></iframe></div>
-
-If you don't feel like watching a video, you can read [the article](http://www.thoughtworks.com/insights/blog/four-attributes-agile-business).
-
+{% include _promo.html title="Four attributes of an agile business" type="Article on" publication="ThoughtWorks Insights" url="http://www.thoughtworks.com/insights/blog/four-attributes-agile-business" imageUrl="images/four_attributes.jpg" description="Building software is something that your business needs to do well. You see more revenue moving through digital channels and you’re starting to realise that this trend will continue. Your company’s ability to remain competitive hinges on your use of technology. This same technology gives new competitors the ability to springboard their businesses and scale quickly." %}
