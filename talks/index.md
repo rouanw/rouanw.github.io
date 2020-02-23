@@ -70,6 +70,9 @@ Tech4Africa 2012 (during “Agile Software Development” presentation and works
 
 ### User groups and community events
 
+__Fail better: learn from the real world with QA in Production__  
+August 2019 SingularIT Meetup - [slides](https://www.slideshare.net/rouanw/qa-in-production-singular-2019)  
+
 __Useful bits: a medley of tips for effective full-stack JavaScript development__  
 November 2017 Jozi.JS Meetup - [slides](https://cdn.rawgit.com/rouanw/jozijs2017/d26a2074/index.html), [event details](https://www.meetup.com/Jozi-JS/events/243167240/)  
 
