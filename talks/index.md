@@ -78,6 +78,10 @@ November 2017 Jozi.JS Meetup - [slides](https://cdn.rawgit.com/rouanw/jozijs2017
 
 __Contributing to open source is easier than you think__  
 May 2017 Developer User Group Johannesburg - [slides](https://www.slideshare.net/rouanw/contributing-to-open-source-is-easier-than-you-think), [event details](https://www.meetup.com/DeveloperUG/events/233442021/)  
+September 2019 Tes Engineering Knowledge Sharing, [video](https://youtu.be/csfYfrhpROE), [event details](https://engineering.tes.com/post/contributing-to-open-source-is-easier-than-you-think/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/csfYfrhpROE" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 __DevOps Culture__  
 November 2015 Scrum User Group Johannesburg - [slides](http://www.slideshare.net/rouanw/devops-culture-55006498), [event details](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/219835943/)  
