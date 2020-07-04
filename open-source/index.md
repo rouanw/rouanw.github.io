@@ -13,9 +13,12 @@ Here are a few open source projects to which [I've contributed](#contributions) 
 
 {% include _promo.html title="npm-audit-helper" url="https://www.npmjs.com/package/npm-audit-helper" imageUrl="images/npm-audit-helper.png" description="It can be really overwhelming to stare at an npm audit report with 50+ vulnerabilities. Where do you start? npm-audit-helper helps answer that question, by providing smaller sets of output and a few hints." %}
 
-{% include _promo.html title="Flamongo" url="https://www.npmjs.com/package/flamongo" imageUrl="images/flamongo.png" description="Flamongo is an npm library that helps you find the most efficient indexes for your MongoDB collections. It pumps a collection full of stub data, creates the indexes you specify and runs your queries. It then prints out useful information and statistics, which will help you decide which indexes are best for your needs." %}
+{% include _promo.html title="Fun Standups!" url="https://funstandups.com/" imageUrl="images/bunnycow.png" description="Tired of having the same old Zoom call every day? Use these fun and creative standup formats to mix things up and learn more about your team and work." %}
+
 
 {% include _promo.html title="Build Window" url="https://github.com/rouanw/build-window" imageUrl="images/build_health_screenshot.png" description="An information radiator that displays the status and health of your CI builds. It's built using Smashing and currently supports Travis, Jenkins, TeamCity, Bamboo and Go." %}
+
+{% include _promo.html title="Flamongo" url="https://www.npmjs.com/package/flamongo" imageUrl="images/flamongo.png" description="Flamongo is an npm library that helps you find the most efficient indexes for your MongoDB collections. It pumps a collection full of stub data, creates the indexes you specify and runs your queries. It then prints out useful information and statistics, which will help you decide which indexes are best for your needs." %}
 
 {% include _promo.html title="Strip .only" url="https://marketplace.visualstudio.com/items?itemName=rouanw.strip-only" imageUrl="images/strip_only.png" description="Ready to commit your code? strip-only is a Visual Studio Code extension that removes exclusive tests by stripping .only from your current file. Run it and it will change all instances of it.only and describe.only to it and describe respectively." %}
 
