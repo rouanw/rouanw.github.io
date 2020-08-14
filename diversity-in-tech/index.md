@@ -39,5 +39,5 @@ __Brittany Storoz on the etymology of programming__
 
 - [Susan Fowler's account of the discrimination and sexual harassment she experienced while working at Uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)
 - [A series of essays by women sharing their experience in technology](https://www.seattletimes.com/education-lab/yes-women-can-and-do-want-to-code-uw-professors-and-alumnae-say/)
-
+- [An article on how to be a good ally](https://www.bbc.co.uk/programmes/articles/GxjYmfnH6hbMMy26Z2yTth/how-to-be-a-good-ally)
 
