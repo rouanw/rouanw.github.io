@@ -7,7 +7,7 @@ share: false
 
 <h2>About me</h2>
 
-I'm a software developer. I've spent a number of years working as a consultant, developing applications for clients in the financial services, health, media and education sectors. I now work remotely for [Tes](http://engineering.tes.com/), where we're building software to help teachers and schools using a predominantly JavaScript microservices stack.
+I'm a senior technical leader and principal software engineer. I spent a number of years working as a consultant, mostly at [ThoughtWorks](https://www.thoughtworks.com/), developing applications for clients in the financial services, health, media and education sectors. I now work remotely for [Tes](http://engineering.tes.com/), where we're building software to help teachers and schools using a predominantly JavaScript microservices stack.
 
 ### Tech stuff
 
@@ -23,4 +23,4 @@ I like learning and sharing what I learn. I've published articles on sites inclu
 
 ### I don't just write code
 
-I have an MA in Creative Writing from the University of East Anglia in the UK. Writing is a passion of mine. You can see a couple of my poems online: [Nocturne](http://www.newwriting.net/student_writing/nocturne/), [Tannin](http://www.newwriting.net/student_writing/tannin/). I'm currently working on my first novel.
+I have an MA in Creative Writing from the University of East Anglia in the UK. Writing is a passion of mine. You can see a couple of my poems online: [Nocturne](http://www.newwriting.net/student_writing/nocturne/), [Tannin](http://www.newwriting.net/student_writing/tannin/). I'm currently working on a novel.
