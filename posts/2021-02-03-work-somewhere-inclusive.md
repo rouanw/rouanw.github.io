@@ -1,14 +1,14 @@
 ---
 # layout: post
-title: Want to be a better developer? Pick an inclusive place to work.
+title: Want to be a better developer? Work somewhere inclusive.
 excerpt: "The skills you need to thrive in an inclusive workplace are actually the same skills that will make you an amazing software developer"
 ---
 
-One of the frustrations I have with the lack of diversity in the software industry is the size of the opportunity we're missing. The skills you need to thrive in an inclusive workplace are actually the same skills that will make you an amazing software developer. So not only do we have teams where diversity is not valued,but the developers in those teams are missing out on the chance to be so much better at their jobs!
+One of the frustrations I have with the lack of diversity in the software industry is that by not welcoming diversity we're missing out on being better at software engineering. The skills you need to thrive in an inclusive workplace are the same skills that will make you an amazing software developer. So not only do we have teams where diversity is not valued – the developers in those teams are missing out on the chance to be so much better at their jobs!
 
 ## The skills that make you inclusive and awesome
 
-Let's break this down. There are three skills you need in order to succeed in a diverse workplace. Thing is, these are the very skills that will make you a stand-out software developer.
+Let's break this down. I'm going to show you three skills you need in order to succeed in a diverse workplace – three skills that will also make you a stand-out software developer.
 
 ### Communication
 
@@ -28,7 +28,7 @@ Empathy also helps you:
 
 Here's where I think things get really interesting. At its core, empathy is an act of **imagination**. To truly understand someone, you need to put yourself in their shoes and see the world like they do. It's easy to leap from here to the general value of imagination in the workplace – imaginative thinkers are better problem solvers, more creative, more resourceful.
 
-But I think this extends to writing code too:
+But this extends to writing code too:
 - Writing software is in many ways creating something out of nothing and for that you need a bit of imagination to understand what it is you're trying to create
 - Debugging software requires the ability to imagine what's happening in the computer's memory
 - Software design is often about creating useful abstractions. These act as metaphors for a system and you need to use your imagination to create them and understand them.
@@ -49,4 +49,4 @@ If you're hiring software developers and you think you have to make a choice bet
 
 If you're a software developer looking for your next role (irrespective of your background) look to work in as diverse a team as possible and favour employers seeking to build an inclusive workplace.
 
-I believe there's a strong ethical argument for us to demand inclusivity as a core practice from our employers, but even on a personal level you will have the opportunity to work with people that can teach you some of the most valuable (and rarest) skills in the tech industry.
+I believe there's a strong ethical argument for us to demand inclusivity as a core practice from our employers, but even on a personal level doing so will give you the opportunity to work with people that can teach you some of the most valuable (and rarest) skills in the tech industry.
