@@ -4,7 +4,9 @@ title: Want to be a better developer? Work somewhere inclusive.
 excerpt: "The skills you need to thrive in an inclusive workplace are actually the same skills that will make you an amazing software developer"
 ---
 
-One of the frustrations I have with the lack of diversity in the software industry is that by not welcoming diversity we're missing out on being better at software engineering. The skills you need to thrive in an inclusive workplace are the same skills that will make you an amazing software developer. So not only do we have teams where diversity is not valued – the developers in those teams are missing out on the chance to be so much better at their jobs!
+When we fail to welcome diversity, we're missing out on being better at software engineering.
+
+The skills you need to thrive in an inclusive workplace are the same skills that will make you an amazing software developer. So not only do we have teams where diversity is not valued – the developers in those teams are missing out on the chance to be so much better at their jobs!
 
 ## The skills that make you inclusive and awesome
 
