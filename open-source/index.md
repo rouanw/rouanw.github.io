@@ -65,6 +65,7 @@ Here are a few open source projects to which [I've contributed](#contributions) 
 #### Docs
 
 - [depcheck](https://github.com/depcheck/depcheck/commits?author=rouanw)
+- [Detox](https://github.com/wix/Detox/commits?author=rouanw)
 - [joi](https://github.com/hapijs/joi/commits?author=rouanw)
 - [knife-solo_data_bag](https://github.com/thbishop/knife-solo_data_bag/commits?author=rouanw)
 - [merge-defaults](https://github.com/balderdashy/merge-defaults/commits?author=rouanw)
