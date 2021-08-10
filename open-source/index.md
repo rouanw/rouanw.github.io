@@ -64,6 +64,7 @@ Here are a few open source projects to which [I've contributed](#contributions) 
 
 #### Docs
 
+- [contentful-action-example](https://github.com/contentful-labs/contentful-action-example/commits?author=rouanw)
 - [depcheck](https://github.com/depcheck/depcheck/commits?author=rouanw)
 - [Detox](https://github.com/wix/Detox/commits?author=rouanw)
 - [joi](https://github.com/hapijs/joi/commits?author=rouanw)
